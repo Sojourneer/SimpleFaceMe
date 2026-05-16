@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../PlatformIO/HLK-LD2450"
+    },
+    {
+      "path": "../ConversingHeads/test/servo_validation"
+    },
+    {
+      "path": "../ConversingHeads/test/faceme_test"
+    }
+  ],
+  "settings": {}
+}

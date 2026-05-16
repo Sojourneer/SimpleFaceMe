@@ -1,0 +1,312 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x116c
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x3108
+entry 0x403c88b8
+
+
+========================================
+SimpleFaceMe - Target Tracking Demo
+========================================
+
+--- Runtime Mode Detection ---
+Mode select pin (GPIO21): LOW
+→ DUAL SERVO MODE
+Configured for 2 servo(s)
+
+=== SimpleFaceMe Configuration ===
+
+--- Hardware Pins ---
+Debug Serial: USB CDC @ 115200 baud
+LD2450 UART: 1 (TX=17, RX=18)
+PCA9685 I2C: SDA=8, SCL=9
+
+--- Geometry (mm) ---
+Sensor: (0, 0)
+Num Servos: 2 (runtime detected)
+Servo 0: (-150, -100)
+Servo 1: (150, -100)
+
+--- Hardware Config ---
+Num Servos: 2 (runtime)
+LD2450 Baud: 256000
+PCA9685 Addr: 0x40
+Servo Freq: 50 Hz
+
+--- LD2450 Coordinate Transform ---
+Flip X: YES
+Flip Y: NO
+Offset X: 0 mm
+Offset Y: 0 mm
+
+--- Servo Calibration (µs) ---
+Pulse Min: 500
+Pulse Center: 1500
+Pulse Max: 2500
+
+--- Behavior ---
+Servo Update: 100 ms
+Target Timeout: 5000 ms
+Debug Verbose: 0
+
+--- Debug Categories ---
+SYSTEM:   ENABLED
+SENSOR:   disabled
+MOTOR:    disabled
+GEOMETRY: disabled
+
+==================================
+
+--- Initializing Servos ---
+[  1205][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1216][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1273][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1332][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1391][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1455][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1524][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1535][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1592][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1651][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1662][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1719][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+✓ Servos initialized and centered
+
+--- Initializing LD2450 Radar ---
+Waiting for radar data...
+✓ LD2450 initialized successfully
+
+--- Startup Demo ---
+Testing servo range...
+Sweep: -90° → 0° → +90° → 0°
+[  2789][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  2800][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  2857][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  2916][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  2927][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  2984][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  4043][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  4054][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  4111][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  4170][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  4181][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  4238][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  5297][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  5308][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  5365][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  5424][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  5435][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  5492][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  6551][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  6562][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  6619][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  6678][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  6689][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  6746][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+✓ Servo sweep complete - tracking active
+
+Debug flags:
+  SYSTEM=1, SENSOR=0, MOTOR=0, GEOMETRY=0
+  TEST_MODE=Single
+
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x116c
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x3108
+entry 0x403c88b8
+
+
+========================================
+SimpleFaceMe - Target Tracking Demo
+========================================
+
+--- Runtime Mode Detection ---
+Mode select pin (GPIO21): LOW
+→ DUAL SERVO MODE
+Configured for 2 servo(s)
+
+=== SimpleFaceMe Configuration ===
+
+--- Hardware Pins ---
+Debug Serial: USB CDC @ 115200 baud
+LD2450 UART: 1 (TX=17, RX=18)
+PCA9685 I2C: SDA=8, SCL=9
+
+--- Geometry (mm) ---
+Sensor: (0, 0)
+Num Servos: 2 (runtime detected)
+Servo 0: (-150, -100)
+Servo 1: (150, -100)
+
+--- Hardware Config ---
+Num Servos: 2 (runtime)
+LD2450 Baud: 256000
+PCA9685 Addr: 0x40
+Servo Freq: 50 Hz
+
+--- LD2450 Coordinate Transform ---
+Flip X: YES
+Flip Y: NO
+Offset X: 0 mm
+Offset Y: 0 mm
+
+--- Servo Calibration (µs) ---
+Pulse Min: 500
+Pulse Center: 1500
+Pulse Max: 2500
+
+--- Behavior ---
+Servo Update: 100 ms
+Target Timeout: 5000 ms
+Debug Verbose: 0
+
+--- Debug Categories ---
+SYSTEM:   ENABLED
+SENSOR:   disabled
+MOTOR:    disabled
+GEOMETRY: disabled
+
+==================================
+
+--- Initializing Servos ---
+[  1205][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1216][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1273][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1332][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1391][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1455][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1524][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1535][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1592][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  1651][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  1662][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  1719][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+✓ Servos initialized and centered
+
+--- Initializing LD2450 Radar ---
+Waiting for radar data...
+✓ LD2450 initialized successfully
+
+--- Startup Demo ---
+Testing servo range...
+Sweep: -90° → 0° → +90° → 0°
+[  2789][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  2800][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  2857][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  2916][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  2927][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  2984][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  4043][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  4054][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  4111][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  4170][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  4181][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  4238][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  5297][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  5308][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  5365][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  5424][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  5435][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  5492][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  6551][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  6562][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  6619][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+[  6678][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[  6689][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[  6746][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+✓ Servo sweep complete - tracking active
+
+Debug flags:
+  SYSTEM=1, SENSOR=0, MOTOR=0, GEOMETRY=0
+  TEST_MODE=Single
+
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x2b (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x116c
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x3108
+entry 0x403c88b8
+
+
+========================================
+SimpleFaceMe - Target Tracking Demo
+========================================
+
+--- Runtime Mode Detection ---
+Mode select pin (GPIO21): LOW
+→ DUAL SERVO MODE
+Configured for 2 servo(s)
+
+=== SimpleFaceMe Configuration ===
+
+--- Hardware Pins ---
+Debug Serial: USB CDC @ 115200 baud
+LD2450 UART: 1 (TX=17, RX=18)
+PCA9685 I2C: SDA=8, SCL=9
+
+--- Geometry (mm) ---
+Sensor: (0, 0)
+Num Servos: 2 (runtime detected)
+Servo 0: (-150, -100)
+Servo 1: (150, -100)
+
+--- Hardware Config ---
+Num Servos: 2 (runtime)
+LD2450 Baud: 256000
+PCA9685 Addr: 0x40
+Servo Freq: 50 Hz
+
+--- LD2450 Coordinate Transform ---
+Flip X: YES
+Flip Y: NO
+Offset X: 0 mm
+Offset Y: 0 mm
+
+--- Servo Calibration (µs) ---
+Pulse Min: 500
+Pulse Center: 1500
+Pulse Max: 2500
+
+--- Behavior ---
+Servo Update: 100 ms
+Target Timeout: 5000 ms
+Debug Verbose: 0
+
+--- Debug Categories ---
+SYSTEM:   ENABLED
+SENSOR:   disabled
+MOTOR:    disabled
+GEOMETRY: disabled
+
+==================================
+
+--- Initializing Servos ---
+✓ Servos initialized and centered
+
+--- Initializing LD2450 Radar ---
+Waiting for radar data...
+✓ LD2450 initialized successfully
+
+--- Startup Demo ---
+Testing servo range...
+Sweep: -90° → 0° → +90° → 0°
+✓ Servo sweep complete - tracking active
+
+Debug flags:
+  SYSTEM=1, SENSOR=0, MOTOR=0, GEOMETRY=0
+  TEST_MODE=Single
+
+⚠ Target timeout: 5004 ms - centering servos
+⚠ Target timeout: 5002 ms - centering servos
+⚠ Target timeout: 5102 ms - centering servos

@@ -1,0 +1,3057 @@
+⚠ Target timeout: 5109 ms - centering servos
+→ TARGET: X=-59 mm, Y=199 mm, Distance=207 mm
+  Servo angle: -13.3°
+→ TARGET: X=-58 mm, Y=202 mm, Distance=210 mm
+  Servo angle: -13.0°
+→ TARGET: X=90 mm, Y=355 mm, Distance=366 mm
+  Servo angle: 12.5°
+→ TARGET: X=103 mm, Y=351 mm, Distance=365 mm
+  Servo angle: 14.4°
+→ TARGET: X=-50 mm, Y=326 mm, Distance=329 mm
+  Servo angle: -7.6°
+→ TARGET: X=-96 mm, Y=349 mm, Distance=361 mm
+  Servo angle: -13.5°
+→ TARGET: X=249 mm, Y=227 mm, Distance=336 mm
+  Servo angle: 42.0°
+→ TARGET: X=251 mm, Y=230 mm, Distance=340 mm
+  Servo angle: 41.9°
+→ TARGET: X=243 mm, Y=299 mm, Distance=385 mm
+  Servo angle: 34.8°
+→ TARGET: X=227 mm, Y=304 mm, Distance=379 mm
+  Servo angle: 32.7°
+→ TARGET: X=132 mm, Y=323 mm, Distance=348 mm
+  Servo angle: 19.5°
+→ TARGET: X=133 mm, Y=320 mm, Distance=346 mm
+  Servo angle: 19.8°
+→ TARGET: X=-35 mm, Y=288 mm, Distance=290 mm
+  Servo angle: -5.9°
+→ TARGET: X=-21 mm, Y=283 mm, Distance=283 mm
+  Servo angle: -3.6°
+→ TARGET: X=15 mm, Y=356 mm, Distance=356 mm
+  Servo angle: 2.1°
+→ TARGET: X=32 mm, Y=333 mm, Distance=334 mm
+  Servo angle: 4.8°
+→ TARGET: X=78 mm, Y=384 mm, Distance=391 mm
+  Servo angle: 10.2°
+→ TARGET: X=76 mm, Y=380 mm, Distance=387 mm
+  Servo angle: 10.0°
+→ TARGET: X=-17 mm, Y=226 mm, Distance=226 mm
+  Servo angle: -3.5°
+→ TARGET: X=21 mm, Y=325 mm, Distance=325 mm
+  Servo angle: 3.2°
+→ TARGET: X=170 mm, Y=276 mm, Distance=324 mm
+  Servo angle: 27.5°
+→ TARGET: X=170 mm, Y=274 mm, Distance=322 mm
+  Servo angle: 27.7°
+→ TARGET: X=193 mm, Y=363 mm, Distance=411 mm
+  Servo angle: 25.0°
+→ TARGET: X=192 mm, Y=227 mm, Distance=297 mm
+  Servo angle: 34.7°
+→ TARGET: X=224 mm, Y=215 mm, Distance=310 mm
+  Servo angle: 40.2°
+→ TARGET: X=213 mm, Y=218 mm, Distance=304 mm
+  Servo angle: 38.5°
+→ TARGET: X=162 mm, Y=324 mm, Distance=362 mm
+  Servo angle: 23.4°
+→ TARGET: X=160 mm, Y=316 mm, Distance=354 mm
+  Servo angle: 23.6°
+→ TARGET: X=104 mm, Y=324 mm, Distance=340 mm
+  Servo angle: 15.5°
+→ TARGET: X=102 mm, Y=325 mm, Distance=340 mm
+  Servo angle: 15.2°
+→ TARGET: X=-77 mm, Y=349 mm, Distance=357 mm
+  Servo angle: -10.9°
+→ TARGET: X=20 mm, Y=384 mm, Distance=384 mm
+  Servo angle: 2.6°
+→ TARGET: X=23 mm, Y=376 mm, Distance=376 mm
+  Servo angle: 3.1°
+→ TARGET: X=10 mm, Y=340 mm, Distance=340 mm
+  Servo angle: 1.5°
+→ TARGET: X=24 mm, Y=332 mm, Distance=332 mm
+  Servo angle: 3.6°
+→ TARGET: X=115 mm, Y=271 mm, Distance=294 mm
+  Servo angle: 19.7°
+→ TARGET: X=114 mm, Y=272 mm, Distance=294 mm
+  Servo angle: 19.5°
+→ TARGET: X=52 mm, Y=229 mm, Distance=234 mm
+  Servo angle: 10.6°
+→ TARGET: X=-12 mm, Y=274 mm, Distance=274 mm
+  Servo angle: -2.1°
+→ TARGET: X=-4 mm, Y=274 mm, Distance=274 mm
+  Servo angle: -0.7°
+→ TARGET: X=144 mm, Y=316 mm, Distance=347 mm
+  Servo angle: 21.5°
+→ TARGET: X=141 mm, Y=317 mm, Distance=346 mm
+  Servo angle: 21.0°
+→ TARGET: X=0 mm, Y=319 mm, Distance=319 mm
+  Servo angle: 0.0°
+→ TARGET: X=2 mm, Y=318 mm, Distance=318 mm
+  Servo angle: 0.3°
+→ TARGET: X=317 mm, Y=608 mm, Distance=685 mm
+  Servo angle: 25.7°
+→ TARGET: X=540 mm, Y=878 mm, Distance=1030 mm
+[ 49221][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 49236][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 49243][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 30.2°
+→ TARGET: X=413 mm, Y=718 mm, Distance=828 mm
+  Servo angle: 28.3°
+→ TARGET: X=267 mm, Y=557 mm, Distance=617 mm
+[ 49498][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 49513][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 49520][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 23.7°
+→ TARGET: X=162 mm, Y=418 mm, Distance=448 mm
+  Servo angle: 19.1°
+→ TARGET: X=144 mm, Y=354 mm, Distance=382 mm
+[ 49823][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 49833][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 19.6°
+→ TARGET: X=99 mm, Y=342 mm, Distance=356 mm
+[ 49995][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 50009][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 50016][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 14.2°
+→ TARGET: X=104 mm, Y=358 mm, Distance=372 mm
+  Servo angle: 14.3°
+→ TARGET: X=101 mm, Y=368 mm, Distance=381 mm
+[ 50317][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 50327][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 13.6°
+→ TARGET: X=87 mm, Y=359 mm, Distance=369 mm
+[ 50476][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 50491][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 50498][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.0°
+→ TARGET: X=88 mm, Y=353 mm, Distance=363 mm
+  Servo angle: 12.3°
+→ TARGET: X=92 mm, Y=350 mm, Distance=361 mm
+[ 50751][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 50766][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 50773][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.0°
+→ TARGET: X=96 mm, Y=344 mm, Distance=357 mm
+  Servo angle: 13.7°
+→ TARGET: X=96 mm, Y=339 mm, Distance=352 mm
+[ 51026][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 51041][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 51048][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.9°
+→ TARGET: X=94 mm, Y=336 mm, Distance=348 mm
+  Servo angle: 13.7°
+→ TARGET: X=89 mm, Y=335 mm, Distance=346 mm
+[ 51352][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 51362][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 13.0°
+→ TARGET: X=84 mm, Y=325 mm, Distance=335 mm
+[ 51511][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 51526][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 51533][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.6°
+→ TARGET: X=82 mm, Y=322 mm, Distance=332 mm
+  Servo angle: 12.4°
+→ TARGET: X=75 mm, Y=322 mm, Distance=330 mm
+[ 51835][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 51845][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 11.4°
+→ TARGET: X=72 mm, Y=314 mm, Distance=322 mm
+[ 51995][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 52010][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 52017][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.2°
+→ TARGET: X=73 mm, Y=308 mm, Distance=316 mm
+  Servo angle: 11.5°
+→ TARGET: X=68 mm, Y=307 mm, Distance=314 mm
+[ 52319][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 52329][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 10.8°
+→ TARGET: X=70 mm, Y=310 mm, Distance=317 mm
+[ 52531][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 52541][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 11.0°
+→ TARGET: X=70 mm, Y=314 mm, Distance=321 mm
+[ 52743][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 52753][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 10.9°
+→ TARGET: X=79 mm, Y=317 mm, Distance=326 mm
+[ 52904][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 52919][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 52926][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.1°
+→ TARGET: X=85 mm, Y=321 mm, Distance=332 mm
+  Servo angle: 12.9°
+→ TARGET: X=102 mm, Y=320 mm, Distance=335 mm
+[ 53182][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 53197][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 53204][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.4°
+→ TARGET: X=102 mm, Y=319 mm, Distance=334 mm
+  Servo angle: 15.5°
+→ TARGET: X=82 mm, Y=318 mm, Distance=328 mm
+[ 53454][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 53469][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 53476][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.6°
+→ TARGET: X=80 mm, Y=320 mm, Distance=329 mm
+  Servo angle: 12.2°
+→ TARGET: X=82 mm, Y=321 mm, Distance=331 mm
+[ 53782][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 53792][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 12.5°
+→ TARGET: X=88 mm, Y=317 mm, Distance=328 mm
+[ 53942][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 53957][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 53964][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.5°
+→ TARGET: X=99 mm, Y=317 mm, Distance=332 mm
+  Servo angle: 15.1°
+→ TARGET: X=103 mm, Y=317 mm, Distance=333 mm
+[ 54227][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 54242][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 54249][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.7°
+→ TARGET: X=104 mm, Y=317 mm, Distance=333 mm
+  Servo angle: 15.8°
+→ TARGET: X=105 mm, Y=312 mm, Distance=329 mm
+[ 54499][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 54514][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 54521][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 16.2°
+→ TARGET: X=92 mm, Y=309 mm, Distance=322 mm
+  Servo angle: 14.4°
+→ TARGET: X=92 mm, Y=308 mm, Distance=321 mm
+[ 54827][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 54837][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 14.4°
+→ TARGET: X=105 mm, Y=300 mm, Distance=317 mm
+[ 54987][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 55002][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 55009][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 16.7°
+→ TARGET: X=117 mm, Y=299 mm, Distance=321 mm
+  Servo angle: 18.5°
+→ TARGET: X=119 mm, Y=294 mm, Distance=317 mm
+[ 55272][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 55287][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 55294][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 19.1°
+→ TARGET: X=121 mm, Y=293 mm, Distance=317 mm
+  Servo angle: 19.4°
+→ TARGET: X=113 mm, Y=291 mm, Distance=312 mm
+[ 55595][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 55605][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 18.3°
+→ TARGET: X=105 mm, Y=295 mm, Distance=313 mm
+[ 55756][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 55771][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 55778][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 16.9°
+→ TARGET: X=103 mm, Y=300 mm, Distance=317 mm
+  Servo angle: 16.4°
+→ TARGET: X=100 mm, Y=298 mm, Distance=314 mm
+[ 56081][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 56091][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 16.0°
+→ TARGET: X=92 mm, Y=296 mm, Distance=309 mm
+[ 56241][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 56256][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 56263][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 14.9°
+→ TARGET: X=88 mm, Y=295 mm, Distance=307 mm
+  Servo angle: 14.3°
+→ TARGET: X=96 mm, Y=295 mm, Distance=310 mm
+[ 56526][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 56541][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 56548][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.5°
+→ TARGET: X=98 mm, Y=294 mm, Distance=309 mm
+  Servo angle: 15.9°
+→ TARGET: X=98 mm, Y=290 mm, Distance=306 mm
+[ 56849][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 56859][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 16.1°
+→ TARGET: X=105 mm, Y=286 mm, Distance=304 mm
+[ 57009][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 57024][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 57031][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.4°
+→ TARGET: X=104 mm, Y=287 mm, Distance=305 mm
+  Servo angle: 17.2°
+→ TARGET: X=106 mm, Y=285 mm, Distance=304 mm
+[ 57284][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 57299][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 57306][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.6°
+→ TARGET: X=107 mm, Y=286 mm, Distance=305 mm
+  Servo angle: 17.7°
+→ TARGET: X=113 mm, Y=287 mm, Distance=308 mm
+[ 57560][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 57575][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 57582][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 18.5°
+→ TARGET: X=119 mm, Y=289 mm, Distance=312 mm
+[ 57722][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 19.3°
+→ TARGET: X=117 mm, Y=291 mm, Distance=313 mm
+  Servo angle: 18.9°
+→ TARGET: X=111 mm, Y=296 mm, Distance=316 mm
+[ 57989][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 58004][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 58011][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.8°
+→ TARGET: X=111 mm, Y=298 mm, Distance=318 mm
+  Servo angle: 17.7°
+→ TARGET: X=110 mm, Y=304 mm, Distance=323 mm
+[ 58261][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 58276][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 58283][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.3°
+→ TARGET: X=112 mm, Y=308 mm, Distance=327 mm
+  Servo angle: 17.4°
+→ TARGET: X=115 mm, Y=309 mm, Distance=329 mm
+[ 58538][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 58553][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 58560][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.8°
+→ TARGET: X=123 mm, Y=312 mm, Distance=335 mm
+  Servo angle: 18.8°
+→ TARGET: X=135 mm, Y=315 mm, Distance=342 mm
+[ 58813][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 58828][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 58835][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 20.3°
+→ TARGET: X=128 mm, Y=312 mm, Distance=337 mm
+  Servo angle: 19.5°
+→ TARGET: X=123 mm, Y=309 mm, Distance=332 mm
+[ 59087][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 59102][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 59109][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 18.9°
+→ TARGET: X=126 mm, Y=308 mm, Distance=332 mm
+  Servo angle: 19.4°
+→ TARGET: X=138 mm, Y=333 mm, Distance=360 mm
+[ 59360][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 59375][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 59382][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 19.8°
+→ TARGET: X=136 mm, Y=406 mm, Distance=428 mm
+  Servo angle: 16.6°
+→ TARGET: X=119 mm, Y=406 mm, Distance=423 mm
+[ 59635][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 59650][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 59657][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 14.6°
+→ TARGET: X=114 mm, Y=405 mm, Distance=420 mm
+  Servo angle: 14.1°
+→ TARGET: X=110 mm, Y=401 mm, Distance=415 mm
+[ 59910][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 59925][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 59932][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.7°
+→ TARGET: X=106 mm, Y=391 mm, Distance=405 mm
+[ 60074][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.5°
+→ TARGET: X=99 mm, Y=380 mm, Distance=392 mm
+  Servo angle: 13.0°
+→ TARGET: X=93 mm, Y=371 mm, Distance=382 mm
+[ 60340][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 60355][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 60362][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.5°
+→ TARGET: X=88 mm, Y=364 mm, Distance=374 mm
+  Servo angle: 12.0°
+→ TARGET: X=84 mm, Y=357 mm, Distance=366 mm
+[ 60664][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 60674][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 11.7°
+→ TARGET: X=81 mm, Y=349 mm, Distance=358 mm
+[ 60824][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 60839][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 60846][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.5°
+→ TARGET: X=76 mm, Y=339 mm, Distance=347 mm
+  Servo angle: 11.1°
+→ TARGET: X=73 mm, Y=334 mm, Distance=341 mm
+[ 61149][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 61159][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 10.8°
+→ TARGET: X=67 mm, Y=322 mm, Distance=328 mm
+[ 61310][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 61325][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 61332][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 10.2°
+→ TARGET: X=58 mm, Y=315 mm, Distance=320 mm
+  Servo angle: 9.0°
+→ TARGET: X=51 mm, Y=309 mm, Distance=313 mm
+[ 61595][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 61610][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 61617][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 8.1°
+→ TARGET: X=52 mm, Y=309 mm, Distance=313 mm
+  Servo angle: 8.2°
+→ TARGET: X=57 mm, Y=307 mm, Distance=312 mm
+[ 61918][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 61928][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 9.1°
+→ TARGET: X=61 mm, Y=301 mm, Distance=307 mm
+[ 62079][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 62094][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 62101][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 9.9°
+→ TARGET: X=61 mm, Y=297 mm, Distance=303 mm
+  Servo angle: 10.0°
+→ TARGET: X=63 mm, Y=296 mm, Distance=302 mm
+[ 62353][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 62368][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 62375][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 10.3°
+→ TARGET: X=67 mm, Y=294 mm, Distance=301 mm
+  Servo angle: 11.0°
+→ TARGET: X=67 mm, Y=290 mm, Distance=297 mm
+[ 62628][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 62643][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 62650][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.1°
+→ TARGET: X=66 mm, Y=284 mm, Distance=291 mm
+  Servo angle: 11.2°
+→ TARGET: X=67 mm, Y=285 mm, Distance=292 mm
+[ 62902][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 62917][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 62924][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.3°
+→ TARGET: X=74 mm, Y=285 mm, Distance=294 mm
+  Servo angle: 12.5°
+→ TARGET: X=81 mm, Y=283 mm, Distance=294 mm
+[ 63174][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 63189][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 63196][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.7°
+→ TARGET: X=85 mm, Y=282 mm, Distance=294 mm
+  Servo angle: 14.4°
+→ TARGET: X=90 mm, Y=285 mm, Distance=298 mm
+[ 63450][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 63465][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 63472][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.0°
+→ TARGET: X=92 mm, Y=287 mm, Distance=301 mm
+  Servo angle: 15.3°
+→ TARGET: X=91 mm, Y=287 mm, Distance=301 mm
+[ 63726][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 63741][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 63748][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.1°
+→ TARGET: X=98 mm, Y=289 mm, Distance=305 mm
+  Servo angle: 16.1°
+→ TARGET: X=104 mm, Y=292 mm, Distance=309 mm
+[ 64050][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 64060][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 16.9°
+→ TARGET: X=104 mm, Y=293 mm, Distance=310 mm
+[ 64262][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 64272][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 16.9°
+→ TARGET: X=107 mm, Y=293 mm, Distance=311 mm
+[ 64423][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 64438][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 64445][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.3°
+→ TARGET: X=120 mm, Y=292 mm, Distance=315 mm
+  Servo angle: 19.3°
+→ TARGET: X=123 mm, Y=292 mm, Distance=316 mm
+[ 64705][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 64720][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 64727][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 19.8°
+→ TARGET: X=124 mm, Y=293 mm, Distance=318 mm
+  Servo angle: 19.9°
+→ TARGET: X=123 mm, Y=294 mm, Distance=318 mm
+[ 64981][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 64996][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 65003][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 19.7°
+→ TARGET: X=124 mm, Y=294 mm, Distance=319 mm
+  Servo angle: 19.8°
+→ TARGET: X=119 mm, Y=293 mm, Distance=316 mm
+[ 65305][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 65315][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 19.1°
+→ TARGET: X=113 mm, Y=296 mm, Distance=316 mm
+[ 65465][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 65480][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 65487][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 18.1°
+→ TARGET: X=109 mm, Y=296 mm, Distance=315 mm
+  Servo angle: 17.5°
+→ TARGET: X=104 mm, Y=294 mm, Distance=311 mm
+[ 65738][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 65753][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 65760][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 16.8°
+→ TARGET: X=104 mm, Y=293 mm, Distance=310 mm
+  Servo angle: 16.9°
+→ TARGET: X=109 mm, Y=293 mm, Distance=312 mm
+[ 66012][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 66027][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 66034][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 17.6°
+→ TARGET: X=108 mm, Y=293 mm, Distance=312 mm
+  Servo angle: 17.5°
+→ TARGET: X=104 mm, Y=292 mm, Distance=309 mm
+[ 66297][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 66312][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 66319][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 16.9°
+→ TARGET: X=92 mm, Y=292 mm, Distance=306 mm
+  Servo angle: 15.1°
+→ TARGET: X=78 mm, Y=294 mm, Distance=304 mm
+[ 66621][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 66631][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+  Servo angle: 12.8°
+→ TARGET: X=93 mm, Y=298 mm, Distance=312 mm
+[ 66782][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 66797][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 66804][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.0°
+→ TARGET: X=98 mm, Y=295 mm, Distance=310 mm
+  Servo angle: 15.9°
+→ TARGET: X=93 mm, Y=293 mm, Distance=307 mm
+[ 67054][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 67069][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 67076][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 15.2°
+→ TARGET: X=78 mm, Y=295 mm, Distance=305 mm
+  Servo angle: 12.7°
+→ TARGET: X=70 mm, Y=294 mm, Distance=302 mm
+[ 67325][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 67340][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 67347][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.5°
+→ TARGET: X=67 mm, Y=290 mm, Distance=297 mm
+  Servo angle: 11.1°
+→ TARGET: X=70 mm, Y=291 mm, Distance=299 mm
+[ 67604][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 67619][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 67626][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 11.6°
+→ TARGET: X=73 mm, Y=296 mm, Distance=304 mm
+  Servo angle: 11.9°
+→ TARGET: X=77 mm, Y=302 mm, Distance=311 mm
+[ 67874][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 67889][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 67896][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 12.3°
+→ TARGET: X=81 mm, Y=304 mm, Distance=314 mm
+  Servo angle: 12.9°
+→ TARGET: X=82 mm, Y=304 mm, Distance=314 mm
+[ 68152][E][esp32-hal-i2c-ng.c:369] i2cWriteReadNonStop(): i2c_master_transmit_receive failed: [259] ESP_ERR_INVALID_STATE
+[ 68167][E][Wire.cpp:520] requestFrom(): i2cWriteReadNonStop returned Error 259
+[ 68174][E][esp32-hal-i2c-ng.c:275] i2cWrite(): i2c_master_transmit failed: [259] ESP_ERR_INVALID_STATE
+  Servo angle: 13.0°
+→ TARGET: X=81 mm, Y=302 mm, Distance=312 mm
+  Servo angle: 13.0°
+→ TARGET: X=81 mm, Y=302 mm, Distance=312 mm
+  Servo angle: 13.0°
+→ TARGET: X=105 mm, Y=301 mm, Distance=318 mm
+  Servo angle: 16.7°
+→ TARGET: X=104 mm, Y=301 mm, Distance=318 mm
+  Servo angle: 16.5°
+→ TARGET: X=115 mm, Y=433 mm, Distance=448 mm
+  Servo angle: 13.4°
+→ TARGET: X=112 mm, Y=433 mm, Distance=447 mm
+  Servo angle: 13.1°
+→ TARGET: X=89 mm, Y=420 mm, Distance=429 mm
+  Servo angle: 10.7°
+→ TARGET: X=79 mm, Y=421 mm, Distance=428 mm
+  Servo angle: 9.5°
+→ TARGET: X=-23 mm, Y=417 mm, Distance=417 mm
+  Servo angle: -2.8°
+→ TARGET: X=-22 mm, Y=418 mm, Distance=418 mm
+  Servo angle: -2.7°
+→ TARGET: X=-68 mm, Y=438 mm, Distance=443 mm
+  Servo angle: -7.9°
+→ TARGET: X=-66 mm, Y=441 mm, Distance=445 mm
+  Servo angle: -7.7°
+→ TARGET: X=-99 mm, Y=445 mm, Distance=455 mm
+  Servo angle: -11.3°
+→ TARGET: X=-98 mm, Y=444 mm, Distance=454 mm
+  Servo angle: -11.2°
+→ TARGET: X=292 mm, Y=481 mm, Distance=562 mm
+  Servo angle: 28.8°
+→ TARGET: X=292 mm, Y=482 mm, Distance=563 mm
+  Servo angle: 28.8°
+→ TARGET: X=100 mm, Y=486 mm, Distance=496 mm
+  Servo angle: 10.6°
+→ TARGET: X=136 mm, Y=511 mm, Distance=528 mm
+  Servo angle: 13.6°
+→ TARGET: X=512 mm, Y=440 mm, Distance=675 mm
+  Servo angle: 46.3°
+→ TARGET: X=492 mm, Y=465 mm, Distance=676 mm
+  Servo angle: 43.7°
+→ TARGET: X=685 mm, Y=688 mm, Distance=970 mm
+  Servo angle: 42.9°
+→ TARGET: X=635 mm, Y=646 mm, Distance=905 mm
+  Servo angle: 42.4°
+→ TARGET: X=575 mm, Y=611 mm, Distance=839 mm
+  Servo angle: 41.0°
+→ TARGET: X=548 mm, Y=597 mm, Distance=810 mm
+  Servo angle: 40.3°
+→ TARGET: X=306 mm, Y=870 mm, Distance=922 mm
+  Servo angle: 18.4°
+→ TARGET: X=311 mm, Y=858 mm, Distance=912 mm
+  Servo angle: 18.9°
+→ TARGET: X=194 mm, Y=746 mm, Distance=770 mm
+  Servo angle: 13.7°
+→ TARGET: X=196 mm, Y=748 mm, Distance=773 mm
+  Servo angle: 13.8°
+→ TARGET: X=39 mm, Y=802 mm, Distance=802 mm
+  Servo angle: 2.6°
+→ TARGET: X=40 mm, Y=809 mm, Distance=809 mm
+  Servo angle: 2.7°
+→ TARGET: X=-346 mm, Y=753 mm, Distance=828 mm
+  Servo angle: -23.3°
+→ TARGET: X=-468 mm, Y=690 mm, Distance=833 mm
+  Servo angle: -32.3°
+→ TARGET: X=-458 mm, Y=692 mm, Distance=829 mm
+  Servo angle: -31.7°
+→ TARGET: X=-15 mm, Y=781 mm, Distance=781 mm
+  Servo angle: -1.0°
+→ TARGET: X=0 mm, Y=780 mm, Distance=780 mm
+  Servo angle: 0.0°
+→ TARGET: X=104 mm, Y=624 mm, Distance=632 mm
+  Servo angle: 8.8°
+→ TARGET: X=93 mm, Y=627 mm, Distance=633 mm
+  Servo angle: 7.8°
+→ TARGET: X=172 mm, Y=788 mm, Distance=806 mm
+  Servo angle: 11.6°
+→ TARGET: X=176 mm, Y=785 mm, Distance=804 mm
+  Servo angle: 11.9°
+→ TARGET: X=12 mm, Y=769 mm, Distance=769 mm
+  Servo angle: 0.8°
+→ TARGET: X=16 mm, Y=767 mm, Distance=767 mm
+  Servo angle: 1.1°
+→ TARGET: X=77 mm, Y=784 mm, Distance=787 mm
+  Servo angle: 5.3°
+→ TARGET: X=73 mm, Y=787 mm, Distance=790 mm
+  Servo angle: 5.0°
+→ TARGET: X=-119 mm, Y=670 mm, Distance=680 mm
+  Servo angle: -9.4°
+→ TARGET: X=-133 mm, Y=716 mm, Distance=728 mm
+  Servo angle: -9.9°
+→ TARGET: X=108 mm, Y=937 mm, Distance=943 mm
+  Servo angle: 6.2°
+→ TARGET: X=132 mm, Y=928 mm, Distance=937 mm
+  Servo angle: 7.7°
+→ TARGET: X=82 mm, Y=825 mm, Distance=829 mm
+  Servo angle: 5.4°
+→ TARGET: X=82 mm, Y=825 mm, Distance=829 mm
+  Servo angle: 5.4°
+→ TARGET: X=-261 mm, Y=841 mm, Distance=880 mm
+  Servo angle: -16.3°
+→ TARGET: X=-186 mm, Y=824 mm, Distance=844 mm
+  Servo angle: -12.0°
+→ TARGET: X=35 mm, Y=814 mm, Distance=814 mm
+  Servo angle: 2.3°
+→ TARGET: X=38 mm, Y=812 mm, Distance=812 mm
+  Servo angle: 2.5°
+→ TARGET: X=203 mm, Y=595 mm, Distance=628 mm
+  Servo angle: 17.5°
+→ TARGET: X=203 mm, Y=596 mm, Distance=629 mm
+  Servo angle: 17.4°
+→ TARGET: X=280 mm, Y=741 mm, Distance=792 mm
+  Servo angle: 19.5°
+→ TARGET: X=285 mm, Y=735 mm, Distance=788 mm
+  Servo angle: 20.0°
+→ TARGET: X=208 mm, Y=990 mm, Distance=1011 mm
+  Servo angle: 11.3°
+→ TARGET: X=201 mm, Y=975 mm, Distance=995 mm
+  Servo angle: 11.1°
+→ TARGET: X=210 mm, Y=981 mm, Distance=1003 mm
+  Servo angle: 11.5°
+→ TARGET: X=218 mm, Y=989 mm, Distance=1012 mm
+  Servo angle: 11.8°
+→ TARGET: X=226 mm, Y=1000 mm, Distance=1025 mm
+  Servo angle: 12.1°
+→ TARGET: X=224 mm, Y=1018 mm, Distance=1042 mm
+  Servo angle: 11.8°
+→ TARGET: X=164 mm, Y=1126 mm, Distance=1137 mm
+  Servo angle: 7.9°
+→ TARGET: X=110 mm, Y=1438 mm, Distance=1442 mm
+  Servo angle: 4.2°
+→ TARGET: X=123 mm, Y=1420 mm, Distance=1425 mm
+  Servo angle: 4.8°
+→ TARGET: X=153 mm, Y=1371 mm, Distance=1379 mm
+  Servo angle: 6.1°
+→ TARGET: X=177 mm, Y=1331 mm, Distance=1342 mm
+  Servo angle: 7.3°
+→ TARGET: X=226 mm, Y=1252 mm, Distance=1272 mm
+  Servo angle: 9.8°
+→ TARGET: X=238 mm, Y=1241 mm, Distance=1263 mm
+  Servo angle: 10.4°
+→ TARGET: X=571 mm, Y=1193 mm, Distance=1322 mm
+  Servo angle: 24.7°
+→ TARGET: X=575 mm, Y=1189 mm, Distance=1320 mm
+  Servo angle: 24.9°
+→ TARGET: X=581 mm, Y=897 mm, Distance=1068 mm
+  Servo angle: 31.5°
+→ TARGET: X=621 mm, Y=909 mm, Distance=1100 mm
+  Servo angle: 32.9°
+→ TARGET: X=777 mm, Y=838 mm, Distance=1142 mm
+  Servo angle: 41.2°
+→ TARGET: X=787 mm, Y=841 mm, Distance=1151 mm
+  Servo angle: 41.5°
+→ TARGET: X=641 mm, Y=868 mm, Distance=1079 mm
+  Servo angle: 34.9°
+→ TARGET: X=659 mm, Y=869 mm, Distance=1090 mm
+  Servo angle: 35.6°
+→ TARGET: X=648 mm, Y=898 mm, Distance=1107 mm
+  Servo angle: 34.4°
+→ TARGET: X=649 mm, Y=897 mm, Distance=1107 mm
+  Servo angle: 34.4°
+→ TARGET: X=467 mm, Y=1043 mm, Distance=1142 mm
+  Servo angle: 23.1°
+→ TARGET: X=476 mm, Y=1057 mm, Distance=1159 mm
+  Servo angle: 23.3°
+→ TARGET: X=236 mm, Y=1064 mm, Distance=1089 mm
+  Servo angle: 12.0°
+→ TARGET: X=229 mm, Y=1063 mm, Distance=1087 mm
+  Servo angle: 11.6°
+→ TARGET: X=-149 mm, Y=1476 mm, Distance=1483 mm
+  Servo angle: -5.6°
+→ TARGET: X=-147 mm, Y=1481 mm, Distance=1488 mm
+  Servo angle: -5.5°
+→ TARGET: X=-32 mm, Y=1875 mm, Distance=1875 mm
+  Servo angle: -1.0°
+→ TARGET: X=-37 mm, Y=1878 mm, Distance=1878 mm
+  Servo angle: -1.1°
+→ TARGET: X=116 mm, Y=1958 mm, Distance=1961 mm
+  Servo angle: 3.3°
+→ TARGET: X=98 mm, Y=1948 mm, Distance=1950 mm
+  Servo angle: 2.8°
+→ TARGET: X=121 mm, Y=1877 mm, Distance=1880 mm
+  Servo angle: 3.6°
+→ TARGET: X=24 mm, Y=1904 mm, Distance=1904 mm
+  Servo angle: 0.7°
+→ TARGET: X=0 mm, Y=1903 mm, Distance=1903 mm
+  Servo angle: 0.0°
+→ TARGET: X=296 mm, Y=1910 mm, Distance=1932 mm
+  Servo angle: 8.6°
+→ TARGET: X=280 mm, Y=2030 mm, Distance=2049 mm
+  Servo angle: 7.7°
+→ TARGET: X=310 mm, Y=2018 mm, Distance=2041 mm
+  Servo angle: 8.5°
+→ TARGET: X=345 mm, Y=1997 mm, Distance=2026 mm
+  Servo angle: 9.6°
+→ TARGET: X=353 mm, Y=1978 mm, Distance=2009 mm
+  Servo angle: 9.9°
+→ TARGET: X=347 mm, Y=1970 mm, Distance=2000 mm
+  Servo angle: 9.7°
+→ TARGET: X=355 mm, Y=1955 mm, Distance=1986 mm
+  Servo angle: 10.0°
+→ TARGET: X=371 mm, Y=1950 mm, Distance=1984 mm
+  Servo angle: 10.5°
+→ TARGET: X=402 mm, Y=1946 mm, Distance=1987 mm
+  Servo angle: 11.4°
+→ TARGET: X=439 mm, Y=1939 mm, Distance=1988 mm
+  Servo angle: 12.4°
+→ TARGET: X=514 mm, Y=1914 mm, Distance=1981 mm
+  Servo angle: 14.7°
+→ TARGET: X=549 mm, Y=1905 mm, Distance=1982 mm
+  Servo angle: 15.7°
+→ TARGET: X=713 mm, Y=1810 mm, Distance=1945 mm
+  Servo angle: 21.0°
+→ TARGET: X=716 mm, Y=1815 mm, Distance=1951 mm
+  Servo angle: 21.0°
+→ TARGET: X=946 mm, Y=1519 mm, Distance=1789 mm
+  Servo angle: 31.1°
+→ TARGET: X=863 mm, Y=1992 mm, Distance=2170 mm
+  Servo angle: 22.9°
+→ TARGET: X=874 mm, Y=1984 mm, Distance=2167 mm
+  Servo angle: 23.3°
+→ TARGET: X=979 mm, Y=1824 mm, Distance=2070 mm
+  Servo angle: 27.6°
+→ TARGET: X=985 mm, Y=1820 mm, Distance=2069 mm
+  Servo angle: 27.8°
+→ TARGET: X=1099 mm, Y=1976 mm, Distance=2261 mm
+  Servo angle: 28.5°
+→ TARGET: X=1093 mm, Y=1950 mm, Distance=2235 mm
+  Servo angle: 28.7°
+→ TARGET: X=1111 mm, Y=1935 mm, Distance=2231 mm
+  Servo angle: 29.2°
+→ TARGET: X=1121 mm, Y=1924 mm, Distance=2226 mm
+  Servo angle: 29.6°
+→ TARGET: X=1097 mm, Y=1916 mm, Distance=2207 mm
+  Servo angle: 29.2°
+→ TARGET: X=1093 mm, Y=1908 mm, Distance=2198 mm
+  Servo angle: 29.2°
+→ TARGET: X=1096 mm, Y=1899 mm, Distance=2192 mm
+  Servo angle: 29.4°
+→ TARGET: X=1099 mm, Y=1893 mm, Distance=2188 mm
+  Servo angle: 29.5°
+→ TARGET: X=1097 mm, Y=1893 mm, Distance=2187 mm
+  Servo angle: 29.4°
+→ TARGET: X=1100 mm, Y=1897 mm, Distance=2192 mm
+  Servo angle: 29.5°
+→ TARGET: X=1102 mm, Y=1899 mm, Distance=2195 mm
+  Servo angle: 29.5°
+→ TARGET: X=1107 mm, Y=1896 mm, Distance=2195 mm
+  Servo angle: 29.6°
+→ TARGET: X=1112 mm, Y=1892 mm, Distance=2194 mm
+  Servo angle: 29.8°
+→ TARGET: X=1113 mm, Y=1891 mm, Distance=2194 mm
+  Servo angle: 29.8°
+→ TARGET: X=1107 mm, Y=1891 mm, Distance=2191 mm
+  Servo angle: 29.7°
+→ TARGET: X=1101 mm, Y=1892 mm, Distance=2189 mm
+  Servo angle: 29.6°
+→ TARGET: X=1060 mm, Y=1911 mm, Distance=2185 mm
+  Servo angle: 28.4°
+→ TARGET: X=1019 mm, Y=1925 mm, Distance=2178 mm
+  Servo angle: 27.3°
+→ TARGET: X=984 mm, Y=1945 mm, Distance=2179 mm
+  Servo angle: 26.3°
+→ TARGET: X=953 mm, Y=1968 mm, Distance=2186 mm
+  Servo angle: 25.3°
+→ TARGET: X=935 mm, Y=1973 mm, Distance=2183 mm
+  Servo angle: 24.8°
+→ TARGET: X=258 mm, Y=1970 mm, Distance=1986 mm
+  Servo angle: 7.3°
+→ TARGET: X=240 mm, Y=1975 mm, Distance=1989 mm
+  Servo angle: 6.8°
+→ TARGET: X=-621 mm, Y=2035 mm, Distance=2127 mm
+  Servo angle: -16.6°
+→ TARGET: X=-1034 mm, Y=1835 mm, Distance=2106 mm
+  Servo angle: -28.7°
+→ TARGET: X=-1048 mm, Y=1821 mm, Distance=2101 mm
+  Servo angle: -29.3°
+→ TARGET: X=-1311 mm, Y=1661 mm, Distance=2116 mm
+  Servo angle: -37.5°
+→ TARGET: X=-1323 mm, Y=1658 mm, Distance=2121 mm
+  Servo angle: -37.8°
+→ TARGET: X=-1086 mm, Y=1607 mm, Distance=1939 mm
+  Servo angle: -33.2°
+→ TARGET: X=-1079 mm, Y=1597 mm, Distance=1927 mm
+  Servo angle: -33.2°
+→ TARGET: X=-791 mm, Y=1448 mm, Distance=1649 mm
+  Servo angle: -27.8°
+→ TARGET: X=-769 mm, Y=1445 mm, Distance=1636 mm
+  Servo angle: -27.2°
+→ TARGET: X=118 mm, Y=1414 mm, Distance=1418 mm
+  Servo angle: 4.6°
+→ TARGET: X=120 mm, Y=1415 mm, Distance=1420 mm
+  Servo angle: 4.7°
+→ TARGET: X=215 mm, Y=1396 mm, Distance=1412 mm
+  Servo angle: 8.5°
+→ TARGET: X=212 mm, Y=1396 mm, Distance=1412 mm
+  Servo angle: 8.3°
+→ TARGET: X=492 mm, Y=1417 mm, Distance=1499 mm
+  Servo angle: 18.5°
+→ TARGET: X=497 mm, Y=1417 mm, Distance=1501 mm
+  Servo angle: 18.7°
+→ TARGET: X=798 mm, Y=1630 mm, Distance=1814 mm
+  Servo angle: 25.4°
+→ TARGET: X=799 mm, Y=1633 mm, Distance=1817 mm
+  Servo angle: 25.4°
+→ TARGET: X=573 mm, Y=1423 mm, Distance=1534 mm
+  Servo angle: 21.3°
+→ TARGET: X=571 mm, Y=1421 mm, Distance=1531 mm
+  Servo angle: 21.2°
+→ TARGET: X=537 mm, Y=896 mm, Distance=1044 mm
+  Servo angle: 29.6°
+→ TARGET: X=541 mm, Y=883 mm, Distance=1035 mm
+  Servo angle: 30.1°
+→ TARGET: X=536 mm, Y=548 mm, Distance=766 mm
+  Servo angle: 41.9°
+→ TARGET: X=545 mm, Y=540 mm, Distance=767 mm
+  Servo angle: 42.7°
+→ TARGET: X=754 mm, Y=578 mm, Distance=950 mm
+  Servo angle: 50.2°
+→ TARGET: X=754 mm, Y=576 mm, Distance=948 mm
+  Servo angle: 50.3°
+→ TARGET: X=665 mm, Y=668 mm, Distance=942 mm
+  Servo angle: 42.8°
+→ TARGET: X=666 mm, Y=669 mm, Distance=943 mm
+  Servo angle: 42.8°
+→ TARGET: X=686 mm, Y=523 mm, Distance=862 mm
+  Servo angle: 50.1°
+→ TARGET: X=688 mm, Y=506 mm, Distance=854 mm
+  Servo angle: 51.1°
+→ TARGET: X=767 mm, Y=554 mm, Distance=946 mm
+  Servo angle: 51.8°
+→ TARGET: X=768 mm, Y=545 mm, Distance=941 mm
+  Servo angle: 52.2°
+→ TARGET: X=768 mm, Y=538 mm, Distance=937 mm
+  Servo angle: 52.6°
+→ TARGET: X=767 mm, Y=530 mm, Distance=932 mm
+  Servo angle: 52.9°
+→ TARGET: X=766 mm, Y=523 mm, Distance=927 mm
+  Servo angle: 53.2°
+→ TARGET: X=761 mm, Y=519 mm, Distance=921 mm
+  Servo angle: 53.2°
+→ TARGET: X=758 mm, Y=520 mm, Distance=919 mm
+  Servo angle: 53.1°
+→ TARGET: X=755 mm, Y=519 mm, Distance=916 mm
+  Servo angle: 53.0°
+→ TARGET: X=753 mm, Y=518 mm, Distance=913 mm
+  Servo angle: 53.0°
+→ TARGET: X=751 mm, Y=517 mm, Distance=911 mm
+  Servo angle: 52.9°
+→ TARGET: X=749 mm, Y=515 mm, Distance=908 mm
+  Servo angle: 53.0°
+→ TARGET: X=747 mm, Y=516 mm, Distance=907 mm
+  Servo angle: 52.8°
+→ TARGET: X=739 mm, Y=523 mm, Distance=905 mm
+  Servo angle: 52.2°
+→ TARGET: X=726 mm, Y=538 mm, Distance=903 mm
+  Servo angle: 51.0°
+→ TARGET: X=715 mm, Y=547 mm, Distance=900 mm
+  Servo angle: 50.1°
+→ TARGET: X=404 mm, Y=694 mm, Distance=803 mm
+  Servo angle: 28.5°
+→ TARGET: X=380 mm, Y=706 mm, Distance=801 mm
+  Servo angle: 26.7°
+→ TARGET: X=-127 mm, Y=1117 mm, Distance=1124 mm
+  Servo angle: -6.2°
+→ TARGET: X=-120 mm, Y=1143 mm, Distance=1149 mm
+  Servo angle: -5.7°
+→ TARGET: X=-331 mm, Y=1148 mm, Distance=1194 mm
+  Servo angle: -15.4°
+→ TARGET: X=-653 mm, Y=1076 mm, Distance=1258 mm
+  Servo angle: -30.1°
+→ TARGET: X=-655 mm, Y=1078 mm, Distance=1261 mm
+  Servo angle: -30.1°
+→ TARGET: X=-73 mm, Y=1163 mm, Distance=1165 mm
+  Servo angle: -3.4°
+→ TARGET: X=-70 mm, Y=1160 mm, Distance=1162 mm
+  Servo angle: -3.3°
+→ TARGET: X=688 mm, Y=902 mm, Distance=1134 mm
+  Servo angle: 35.9°
+→ TARGET: X=691 mm, Y=903 mm, Distance=1137 mm
+  Servo angle: 35.9°
+→ TARGET: X=878 mm, Y=1041 mm, Distance=1361 mm
+  Servo angle: 38.8°
+→ TARGET: X=857 mm, Y=1043 mm, Distance=1349 mm
+  Servo angle: 38.1°
+→ TARGET: X=700 mm, Y=928 mm, Distance=1162 mm
+  Servo angle: 35.6°
+→ TARGET: X=694 mm, Y=926 mm, Distance=1157 mm
+  Servo angle: 35.4°
+→ TARGET: X=456 mm, Y=639 mm, Distance=785 mm
+  Servo angle: 33.5°
+→ TARGET: X=454 mm, Y=640 mm, Distance=784 mm
+  Servo angle: 33.3°
+→ TARGET: X=267 mm, Y=485 mm, Distance=553 mm
+  Servo angle: 26.5°
+→ TARGET: X=266 mm, Y=482 mm, Distance=550 mm
+  Servo angle: 26.6°
+→ TARGET: X=364 mm, Y=330 mm, Distance=491 mm
+  Servo angle: 43.8°
+→ TARGET: X=364 mm, Y=327 mm, Distance=489 mm
+  Servo angle: 44.0°
+→ TARGET: X=304 mm, Y=241 mm, Distance=387 mm
+  Servo angle: 46.3°
+→ TARGET: X=306 mm, Y=240 mm, Distance=388 mm
+  Servo angle: 46.5°
+→ TARGET: X=234 mm, Y=198 mm, Distance=306 mm
+  Servo angle: 43.3°
+→ TARGET: X=236 mm, Y=200 mm, Distance=309 mm
+  Servo angle: 43.3°
+→ TARGET: X=223 mm, Y=319 mm, Distance=389 mm
+  Servo angle: 31.1°
+→ TARGET: X=226 mm, Y=316 mm, Distance=388 mm
+  Servo angle: 31.7°
+→ TARGET: X=284 mm, Y=190 mm, Distance=341 mm
+  Servo angle: 49.8°
+→ TARGET: X=285 mm, Y=190 mm, Distance=342 mm
+  Servo angle: 49.9°
+→ TARGET: X=274 mm, Y=176 mm, Distance=325 mm
+  Servo angle: 50.5°
+→ TARGET: X=293 mm, Y=191 mm, Distance=349 mm
+  Servo angle: 50.6°
+→ TARGET: X=311 mm, Y=197 mm, Distance=368 mm
+  Servo angle: 51.5°
+→ TARGET: X=333 mm, Y=223 mm, Distance=400 mm
+  Servo angle: 50.7°
+→ TARGET: X=343 mm, Y=242 mm, Distance=419 mm
+  Servo angle: 49.6°
+→ TARGET: X=345 mm, Y=247 mm, Distance=424 mm
+  Servo angle: 49.3°
+→ TARGET: X=346 mm, Y=246 mm, Distance=424 mm
+  Servo angle: 49.5°
+→ TARGET: X=347 mm, Y=244 mm, Distance=424 mm
+  Servo angle: 49.7°
+→ TARGET: X=351 mm, Y=248 mm, Distance=429 mm
+  Servo angle: 49.7°
+→ TARGET: X=356 mm, Y=257 mm, Distance=439 mm
+  Servo angle: 49.2°
+→ TARGET: X=367 mm, Y=267 mm, Distance=453 mm
+  Servo angle: 49.2°
+→ TARGET: X=379 mm, Y=266 mm, Distance=463 mm
+  Servo angle: 50.2°
+→ TARGET: X=384 mm, Y=265 mm, Distance=466 mm
+  Servo angle: 50.6°
+→ TARGET: X=385 mm, Y=264 mm, Distance=466 mm
+  Servo angle: 50.8°
+→ TARGET: X=386 mm, Y=260 mm, Distance=465 mm
+  Servo angle: 51.2°
+→ TARGET: X=387 mm, Y=257 mm, Distance=464 mm
+  Servo angle: 51.6°
+→ TARGET: X=381 mm, Y=253 mm, Distance=457 mm
+  Servo angle: 51.5°
+→ TARGET: X=372 mm, Y=255 mm, Distance=451 mm
+  Servo angle: 50.7°
+→ TARGET: X=362 mm, Y=258 mm, Distance=444 mm
+  Servo angle: 49.6°
+→ TARGET: X=352 mm, Y=260 mm, Distance=437 mm
+  Servo angle: 48.6°
+→ TARGET: X=343 mm, Y=260 mm, Distance=430 mm
+  Servo angle: 47.9°
+→ TARGET: X=341 mm, Y=262 mm, Distance=430 mm
+  Servo angle: 47.5°
+→ TARGET: X=341 mm, Y=261 mm, Distance=429 mm
+  Servo angle: 47.6°
+→ TARGET: X=341 mm, Y=257 mm, Distance=427 mm
+  Servo angle: 48.0°
+→ TARGET: X=339 mm, Y=257 mm, Distance=425 mm
+  Servo angle: 47.8°
+→ TARGET: X=339 mm, Y=258 mm, Distance=426 mm
+  Servo angle: 47.7°
+→ TARGET: X=338 mm, Y=259 mm, Distance=425 mm
+  Servo angle: 47.6°
+→ TARGET: X=335 mm, Y=259 mm, Distance=423 mm
+  Servo angle: 47.3°
+→ TARGET: X=333 mm, Y=258 mm, Distance=421 mm
+  Servo angle: 47.2°
+→ TARGET: X=333 mm, Y=256 mm, Distance=420 mm
+  Servo angle: 47.4°
+→ TARGET: X=330 mm, Y=253 mm, Distance=415 mm
+  Servo angle: 47.4°
+→ TARGET: X=333 mm, Y=250 mm, Distance=416 mm
+  Servo angle: 48.0°
+→ TARGET: X=339 mm, Y=245 mm, Distance=418 mm
+  Servo angle: 49.0°
+→ TARGET: X=342 mm, Y=244 mm, Distance=420 mm
+  Servo angle: 49.3°
+→ TARGET: X=345 mm, Y=244 mm, Distance=422 mm
+  Servo angle: 49.6°
+→ TARGET: X=341 mm, Y=249 mm, Distance=422 mm
+  Servo angle: 48.8°
+→ TARGET: X=333 mm, Y=252 mm, Distance=417 mm
+  Servo angle: 47.8°
+→ TARGET: X=323 mm, Y=252 mm, Distance=409 mm
+  Servo angle: 46.9°
+→ TARGET: X=314 mm, Y=249 mm, Distance=400 mm
+  Servo angle: 46.4°
+→ TARGET: X=309 mm, Y=245 mm, Distance=394 mm
+  Servo angle: 46.3°
+→ TARGET: X=308 mm, Y=243 mm, Distance=392 mm
+  Servo angle: 46.4°
+→ TARGET: X=308 mm, Y=242 mm, Distance=391 mm
+  Servo angle: 46.5°
+→ TARGET: X=307 mm, Y=241 mm, Distance=390 mm
+  Servo angle: 46.5°
+→ TARGET: X=306 mm, Y=242 mm, Distance=390 mm
+  Servo angle: 46.3°
+→ TARGET: X=303 mm, Y=242 mm, Distance=387 mm
+  Servo angle: 46.1°
+→ TARGET: X=302 mm, Y=242 mm, Distance=386 mm
+  Servo angle: 46.0°
+→ TARGET: X=305 mm, Y=244 mm, Distance=390 mm
+  Servo angle: 46.1°
+→ TARGET: X=312 mm, Y=248 mm, Distance=398 mm
+  Servo angle: 46.3°
+→ TARGET: X=318 mm, Y=250 mm, Distance=404 mm
+  Servo angle: 46.7°
+→ TARGET: X=317 mm, Y=250 mm, Distance=403 mm
+  Servo angle: 46.6°
+→ TARGET: X=311 mm, Y=245 mm, Distance=395 mm
+  Servo angle: 46.5°
+→ TARGET: X=307 mm, Y=243 mm, Distance=391 mm
+  Servo angle: 46.3°
+→ TARGET: X=304 mm, Y=242 mm, Distance=388 mm
+  Servo angle: 46.2°
+→ TARGET: X=300 mm, Y=241 mm, Distance=384 mm
+  Servo angle: 45.9°
+→ TARGET: X=297 mm, Y=239 mm, Distance=381 mm
+  Servo angle: 45.8°
+→ TARGET: X=295 mm, Y=238 mm, Distance=379 mm
+  Servo angle: 45.7°
+→ TARGET: X=291 mm, Y=237 mm, Distance=375 mm
+  Servo angle: 45.4°
+→ TARGET: X=288 mm, Y=236 mm, Distance=372 mm
+  Servo angle: 45.2°
+→ TARGET: X=285 mm, Y=235 mm, Distance=369 mm
+  Servo angle: 45.0°
+→ TARGET: X=283 mm, Y=235 mm, Distance=367 mm
+  Servo angle: 44.8°
+→ TARGET: X=283 mm, Y=238 mm, Distance=369 mm
+  Servo angle: 44.5°
+→ TARGET: X=280 mm, Y=240 mm, Distance=368 mm
+  Servo angle: 44.0°
+→ TARGET: X=278 mm, Y=242 mm, Distance=368 mm
+  Servo angle: 43.6°
+→ TARGET: X=275 mm, Y=239 mm, Distance=364 mm
+  Servo angle: 43.6°
+→ TARGET: X=272 mm, Y=235 mm, Distance=359 mm
+  Servo angle: 43.7°
+→ TARGET: X=269 mm, Y=233 mm, Distance=355 mm
+  Servo angle: 43.5°
+→ TARGET: X=267 mm, Y=232 mm, Distance=353 mm
+  Servo angle: 43.4°
+→ TARGET: X=265 mm, Y=232 mm, Distance=352 mm
+  Servo angle: 43.2°
+→ TARGET: X=262 mm, Y=234 mm, Distance=351 mm
+  Servo angle: 42.7°
+→ TARGET: X=259 mm, Y=235 mm, Distance=349 mm
+  Servo angle: 42.3°
+→ TARGET: X=256 mm, Y=234 mm, Distance=346 mm
+  Servo angle: 42.0°
+→ TARGET: X=251 mm, Y=231 mm, Distance=341 mm
+  Servo angle: 41.8°
+→ TARGET: X=250 mm, Y=232 mm, Distance=341 mm
+  Servo angle: 41.6°
+→ TARGET: X=248 mm, Y=234 mm, Distance=340 mm
+  Servo angle: 41.1°
+→ TARGET: X=247 mm, Y=234 mm, Distance=340 mm
+  Servo angle: 41.0°
+→ TARGET: X=249 mm, Y=234 mm, Distance=341 mm
+  Servo angle: 41.2°
+→ TARGET: X=255 mm, Y=235 mm, Distance=346 mm
+  Servo angle: 41.8°
+→ TARGET: X=266 mm, Y=236 mm, Distance=355 mm
+  Servo angle: 42.9°
+→ TARGET: X=271 mm, Y=234 mm, Distance=358 mm
+  Servo angle: 43.7°
+→ TARGET: X=272 mm, Y=231 mm, Distance=356 mm
+  Servo angle: 44.1°
+→ TARGET: X=271 mm, Y=230 mm, Distance=355 mm
+  Servo angle: 44.1°
+→ TARGET: X=268 mm, Y=231 mm, Distance=353 mm
+  Servo angle: 43.6°
+→ TARGET: X=267 mm, Y=230 mm, Distance=352 mm
+  Servo angle: 43.6°
+→ TARGET: X=267 mm, Y=230 mm, Distance=352 mm
+  Servo angle: 43.6°
+→ TARGET: X=267 mm, Y=231 mm, Distance=353 mm
+  Servo angle: 43.5°
+→ TARGET: X=265 mm, Y=230 mm, Distance=350 mm
+  Servo angle: 43.4°
+→ TARGET: X=261 mm, Y=228 mm, Distance=346 mm
+  Servo angle: 43.2°
+→ TARGET: X=257 mm, Y=225 mm, Distance=341 mm
+  Servo angle: 43.1°
+→ TARGET: X=253 mm, Y=224 mm, Distance=337 mm
+  Servo angle: 42.7°
+→ TARGET: X=250 mm, Y=223 mm, Distance=335 mm
+  Servo angle: 42.5°
+→ TARGET: X=248 mm, Y=223 mm, Distance=333 mm
+  Servo angle: 42.3°
+→ TARGET: X=249 mm, Y=225 mm, Distance=335 mm
+  Servo angle: 42.2°
+→ TARGET: X=249 mm, Y=226 mm, Distance=336 mm
+  Servo angle: 42.1°
+→ TARGET: X=247 mm, Y=224 mm, Distance=333 mm
+  Servo angle: 42.0°
+→ TARGET: X=243 mm, Y=220 mm, Distance=327 mm
+  Servo angle: 42.0°
+→ TARGET: X=239 mm, Y=216 mm, Distance=322 mm
+  Servo angle: 41.9°
+→ TARGET: X=236 mm, Y=215 mm, Distance=319 mm
+  Servo angle: 41.7°
+→ TARGET: X=239 mm, Y=227 mm, Distance=329 mm
+  Servo angle: 40.8°
+→ TARGET: X=246 mm, Y=243 mm, Distance=345 mm
+  Servo angle: 40.0°
+→ TARGET: X=247 mm, Y=246 mm, Distance=348 mm
+  Servo angle: 39.8°
+→ TARGET: X=248 mm, Y=246 mm, Distance=349 mm
+  Servo angle: 40.0°
+→ TARGET: X=251 mm, Y=246 mm, Distance=351 mm
+  Servo angle: 40.3°
+→ TARGET: X=253 mm, Y=247 mm, Distance=353 mm
+  Servo angle: 40.4°
+→ TARGET: X=255 mm, Y=248 mm, Distance=355 mm
+  Servo angle: 40.6°
+→ TARGET: X=252 mm, Y=247 mm, Distance=352 mm
+  Servo angle: 40.3°
+→ TARGET: X=251 mm, Y=248 mm, Distance=352 mm
+  Servo angle: 40.1°
+→ TARGET: X=251 mm, Y=246 mm, Distance=351 mm
+  Servo angle: 40.3°
+→ TARGET: X=250 mm, Y=243 mm, Distance=348 mm
+  Servo angle: 40.5°
+→ TARGET: X=249 mm, Y=243 mm, Distance=347 mm
+  Servo angle: 40.4°
+→ TARGET: X=249 mm, Y=242 mm, Distance=347 mm
+  Servo angle: 40.5°
+→ TARGET: X=249 mm, Y=243 mm, Distance=347 mm
+  Servo angle: 40.4°
+→ TARGET: X=252 mm, Y=246 mm, Distance=352 mm
+  Servo angle: 40.4°
+→ TARGET: X=253 mm, Y=244 mm, Distance=351 mm
+  Servo angle: 40.7°
+→ TARGET: X=252 mm, Y=244 mm, Distance=350 mm
+  Servo angle: 40.6°
+→ TARGET: X=251 mm, Y=244 mm, Distance=350 mm
+  Servo angle: 40.5°
+→ TARGET: X=251 mm, Y=244 mm, Distance=350 mm
+  Servo angle: 40.5°
+→ TARGET: X=252 mm, Y=244 mm, Distance=350 mm
+  Servo angle: 40.6°
+→ TARGET: X=252 mm, Y=244 mm, Distance=350 mm
+  Servo angle: 40.6°
+→ TARGET: X=249 mm, Y=242 mm, Distance=347 mm
+  Servo angle: 40.5°
+→ TARGET: X=247 mm, Y=240 mm, Distance=344 mm
+  Servo angle: 40.4°
+→ TARGET: X=244 mm, Y=237 mm, Distance=340 mm
+  Servo angle: 40.4°
+→ TARGET: X=240 mm, Y=232 mm, Distance=333 mm
+  Servo angle: 40.4°
+→ TARGET: X=238 mm, Y=226 mm, Distance=328 mm
+  Servo angle: 40.8°
+→ TARGET: X=237 mm, Y=224 mm, Distance=326 mm
+  Servo angle: 40.9°
+→ TARGET: X=234 mm, Y=221 mm, Distance=321 mm
+  Servo angle: 40.8°
+→ TARGET: X=233 mm, Y=220 mm, Distance=320 mm
+  Servo angle: 40.8°
+→ TARGET: X=232 mm, Y=219 mm, Distance=319 mm
+  Servo angle: 40.8°
+→ TARGET: X=233 mm, Y=219 mm, Distance=319 mm
+  Servo angle: 40.9°
+→ TARGET: X=233 mm, Y=219 mm, Distance=319 mm
+  Servo angle: 40.9°
+→ TARGET: X=233 mm, Y=220 mm, Distance=320 mm
+  Servo angle: 40.8°
+→ TARGET: X=236 mm, Y=221 mm, Distance=323 mm
+  Servo angle: 41.1°
+→ TARGET: X=237 mm, Y=221 mm, Distance=324 mm
+  Servo angle: 41.2°
+→ TARGET: X=236 mm, Y=221 mm, Distance=323 mm
+  Servo angle: 41.1°
+→ TARGET: X=235 mm, Y=221 mm, Distance=322 mm
+  Servo angle: 40.9°
+→ TARGET: X=231 mm, Y=219 mm, Distance=318 mm
+  Servo angle: 40.7°
+→ TARGET: X=230 mm, Y=219 mm, Distance=317 mm
+  Servo angle: 40.5°
+→ TARGET: X=229 mm, Y=218 mm, Distance=316 mm
+  Servo angle: 40.5°
+→ TARGET: X=229 mm, Y=217 mm, Distance=315 mm
+  Servo angle: 40.6°
+→ TARGET: X=229 mm, Y=216 mm, Distance=314 mm
+  Servo angle: 40.7°
+→ TARGET: X=228 mm, Y=214 mm, Distance=312 mm
+  Servo angle: 40.8°
+→ TARGET: X=227 mm, Y=213 mm, Distance=311 mm
+  Servo angle: 40.8°
+→ TARGET: X=227 mm, Y=213 mm, Distance=311 mm
+  Servo angle: 40.8°
+→ TARGET: X=225 mm, Y=212 mm, Distance=309 mm
+  Servo angle: 40.7°
+→ TARGET: X=224 mm, Y=211 mm, Distance=307 mm
+  Servo angle: 40.6°
+→ TARGET: X=224 mm, Y=211 mm, Distance=307 mm
+  Servo angle: 40.6°
+→ TARGET: X=224 mm, Y=210 mm, Distance=307 mm
+  Servo angle: 40.7°
+→ TARGET: X=225 mm, Y=208 mm, Distance=306 mm
+  Servo angle: 41.1°
+→ TARGET: X=228 mm, Y=208 mm, Distance=308 mm
+  Servo angle: 41.5°
+→ TARGET: X=230 mm, Y=208 mm, Distance=310 mm
+  Servo angle: 41.7°
+→ TARGET: X=231 mm, Y=210 mm, Distance=312 mm
+  Servo angle: 41.6°
+→ TARGET: X=231 mm, Y=210 mm, Distance=312 mm
+  Servo angle: 41.6°
+→ TARGET: X=229 mm, Y=208 mm, Distance=309 mm
+  Servo angle: 41.6°
+→ TARGET: X=228 mm, Y=207 mm, Distance=307 mm
+  Servo angle: 41.6°
+→ TARGET: X=226 mm, Y=206 mm, Distance=305 mm
+  Servo angle: 41.4°
+→ TARGET: X=225 mm, Y=206 mm, Distance=305 mm
+  Servo angle: 41.3°
+→ TARGET: X=229 mm, Y=209 mm, Distance=310 mm
+  Servo angle: 41.5°
+→ TARGET: X=235 mm, Y=213 mm, Distance=317 mm
+  Servo angle: 41.8°
+→ TARGET: X=235 mm, Y=212 mm, Distance=316 mm
+  Servo angle: 41.9°
+→ TARGET: X=236 mm, Y=211 mm, Distance=316 mm
+  Servo angle: 42.1°
+→ TARGET: X=242 mm, Y=212 mm, Distance=321 mm
+  Servo angle: 42.7°
+→ TARGET: X=248 mm, Y=213 mm, Distance=326 mm
+  Servo angle: 43.3°
+→ TARGET: X=251 mm, Y=214 mm, Distance=329 mm
+  Servo angle: 43.6°
+→ TARGET: X=251 mm, Y=215 mm, Distance=330 mm
+  Servo angle: 43.4°
+→ TARGET: X=249 mm, Y=215 mm, Distance=328 mm
+  Servo angle: 43.2°
+→ TARGET: X=246 mm, Y=215 mm, Distance=326 mm
+  Servo angle: 42.9°
+→ TARGET: X=244 mm, Y=216 mm, Distance=325 mm
+  Servo angle: 42.5°
+→ TARGET: X=240 mm, Y=215 mm, Distance=322 mm
+  Servo angle: 42.2°
+→ TARGET: X=234 mm, Y=214 mm, Distance=317 mm
+  Servo angle: 41.6°
+→ TARGET: X=227 mm, Y=213 mm, Distance=311 mm
+  Servo angle: 40.8°
+→ TARGET: X=223 mm, Y=213 mm, Distance=308 mm
+  Servo angle: 40.3°
+→ TARGET: X=219 mm, Y=210 mm, Distance=303 mm
+  Servo angle: 40.1°
+→ TARGET: X=217 mm, Y=206 mm, Distance=299 mm
+  Servo angle: 40.3°
+→ TARGET: X=216 mm, Y=206 mm, Distance=298 mm
+  Servo angle: 40.2°
+→ TARGET: X=218 mm, Y=207 mm, Distance=300 mm
+  Servo angle: 40.3°
+→ TARGET: X=218 mm, Y=207 mm, Distance=300 mm
+  Servo angle: 40.3°
+→ TARGET: X=220 mm, Y=208 mm, Distance=302 mm
+  Servo angle: 40.5°
+→ TARGET: X=227 mm, Y=211 mm, Distance=309 mm
+  Servo angle: 41.0°
+→ TARGET: X=231 mm, Y=214 mm, Distance=314 mm
+  Servo angle: 41.2°
+→ TARGET: X=236 mm, Y=218 mm, Distance=321 mm
+  Servo angle: 41.4°
+→ TARGET: X=240 mm, Y=225 mm, Distance=328 mm
+  Servo angle: 41.1°
+→ TARGET: X=244 mm, Y=234 mm, Distance=338 mm
+  Servo angle: 40.7°
+→ TARGET: X=248 mm, Y=244 mm, Distance=347 mm
+  Servo angle: 40.1°
+→ TARGET: X=246 mm, Y=262 mm, Distance=359 mm
+  Servo angle: 38.3°
+→ TARGET: X=240 mm, Y=163 mm, Distance=290 mm
+  Servo angle: 48.4°
+→ TARGET: X=213 mm, Y=147 mm, Distance=258 mm
+  Servo angle: 47.2°
+→ TARGET: X=211 mm, Y=151 mm, Distance=259 mm
+  Servo angle: 46.4°
+→ TARGET: X=209 mm, Y=154 mm, Distance=259 mm
+  Servo angle: 45.7°
+→ TARGET: X=207 mm, Y=157 mm, Distance=259 mm
+  Servo angle: 45.0°
+→ TARGET: X=205 mm, Y=159 mm, Distance=259 mm
+  Servo angle: 44.4°
+→ TARGET: X=208 mm, Y=160 mm, Distance=262 mm
+  Servo angle: 44.7°
+→ TARGET: X=213 mm, Y=163 mm, Distance=268 mm
+  Servo angle: 45.0°
+→ TARGET: X=217 mm, Y=168 mm, Distance=274 mm
+  Servo angle: 44.9°
+→ TARGET: X=221 mm, Y=173 mm, Distance=280 mm
+  Servo angle: 44.7°
+→ TARGET: X=225 mm, Y=178 mm, Distance=286 mm
+  Servo angle: 44.6°
+→ TARGET: X=227 mm, Y=182 mm, Distance=290 mm
+  Servo angle: 44.4°
+→ TARGET: X=227 mm, Y=184 mm, Distance=292 mm
+  Servo angle: 44.1°
+→ TARGET: X=223 mm, Y=188 mm, Distance=291 mm
+  Servo angle: 43.1°
+→ TARGET: X=220 mm, Y=192 mm, Distance=292 mm
+  Servo angle: 42.3°
+→ TARGET: X=222 mm, Y=196 mm, Distance=296 mm
+  Servo angle: 42.1°
+→ TARGET: X=224 mm, Y=197 mm, Distance=298 mm
+  Servo angle: 42.2°
+→ TARGET: X=224 mm, Y=197 mm, Distance=298 mm
+  Servo angle: 42.2°
+→ TARGET: X=226 mm, Y=199 mm, Distance=301 mm
+  Servo angle: 42.2°
+→ TARGET: X=230 mm, Y=205 mm, Distance=308 mm
+  Servo angle: 42.0°
+→ TARGET: X=234 mm, Y=209 mm, Distance=313 mm
+  Servo angle: 42.1°
+→ TARGET: X=237 mm, Y=212 mm, Distance=317 mm
+  Servo angle: 42.1°
+→ TARGET: X=238 mm, Y=212 mm, Distance=318 mm
+  Servo angle: 42.3°
+→ TARGET: X=241 mm, Y=210 mm, Distance=319 mm
+  Servo angle: 42.8°
+→ TARGET: X=244 mm, Y=209 mm, Distance=321 mm
+  Servo angle: 43.3°
+→ TARGET: X=247 mm, Y=205 mm, Distance=320 mm
+  Servo angle: 44.1°
+→ TARGET: X=247 mm, Y=205 mm, Distance=320 mm
+  Servo angle: 44.1°
+→ TARGET: X=247 mm, Y=206 mm, Distance=321 mm
+  Servo angle: 44.0°
+→ TARGET: X=244 mm, Y=206 mm, Distance=319 mm
+  Servo angle: 43.6°
+→ TARGET: X=240 mm, Y=208 mm, Distance=317 mm
+  Servo angle: 42.9°
+→ TARGET: X=236 mm, Y=209 mm, Distance=315 mm
+  Servo angle: 42.3°
+→ TARGET: X=231 mm, Y=206 mm, Distance=309 mm
+  Servo angle: 42.1°
+→ TARGET: X=230 mm, Y=204 mm, Distance=307 mm
+  Servo angle: 42.2°
+→ TARGET: X=231 mm, Y=204 mm, Distance=308 mm
+  Servo angle: 42.3°
+→ TARGET: X=230 mm, Y=203 mm, Distance=306 mm
+  Servo angle: 42.3°
+→ TARGET: X=227 mm, Y=198 mm, Distance=301 mm
+  Servo angle: 42.5°
+→ TARGET: X=226 mm, Y=197 mm, Distance=299 mm
+  Servo angle: 42.5°
+→ TARGET: X=225 mm, Y=198 mm, Distance=299 mm
+  Servo angle: 42.2°
+→ TARGET: X=225 mm, Y=198 mm, Distance=299 mm
+  Servo angle: 42.2°
+→ TARGET: X=227 mm, Y=201 mm, Distance=303 mm
+  Servo angle: 42.1°
+→ TARGET: X=229 mm, Y=204 mm, Distance=306 mm
+  Servo angle: 42.0°
+→ TARGET: X=230 mm, Y=203 mm, Distance=306 mm
+  Servo angle: 42.3°
+→ TARGET: X=234 mm, Y=202 mm, Distance=309 mm
+  Servo angle: 42.9°
+→ TARGET: X=237 mm, Y=201 mm, Distance=310 mm
+  Servo angle: 43.4°
+→ TARGET: X=241 mm, Y=204 mm, Distance=315 mm
+  Servo angle: 43.5°
+→ TARGET: X=243 mm, Y=207 mm, Distance=319 mm
+  Servo angle: 43.4°
+→ TARGET: X=244 mm, Y=208 mm, Distance=320 mm
+  Servo angle: 43.4°
+→ TARGET: X=243 mm, Y=209 mm, Distance=320 mm
+  Servo angle: 43.2°
+→ TARGET: X=245 mm, Y=212 mm, Distance=323 mm
+  Servo angle: 43.1°
+→ TARGET: X=246 mm, Y=215 mm, Distance=326 mm
+  Servo angle: 42.9°
+→ TARGET: X=244 mm, Y=216 mm, Distance=325 mm
+  Servo angle: 42.5°
+→ TARGET: X=245 mm, Y=216 mm, Distance=326 mm
+  Servo angle: 42.6°
+→ TARGET: X=246 mm, Y=216 mm, Distance=327 mm
+  Servo angle: 42.8°
+→ TARGET: X=248 mm, Y=217 mm, Distance=329 mm
+  Servo angle: 42.9°
+→ TARGET: X=249 mm, Y=218 mm, Distance=330 mm
+  Servo angle: 42.9°
+→ TARGET: X=248 mm, Y=218 mm, Distance=330 mm
+  Servo angle: 42.8°
+→ TARGET: X=249 mm, Y=218 mm, Distance=330 mm
+  Servo angle: 42.9°
+→ TARGET: X=250 mm, Y=220 mm, Distance=333 mm
+  Servo angle: 42.8°
+→ TARGET: X=251 mm, Y=222 mm, Distance=335 mm
+  Servo angle: 42.7°
+→ TARGET: X=250 mm, Y=222 mm, Distance=334 mm
+  Servo angle: 42.6°
+→ TARGET: X=249 mm, Y=222 mm, Distance=333 mm
+  Servo angle: 42.5°
+→ TARGET: X=248 mm, Y=223 mm, Distance=333 mm
+  Servo angle: 42.3°
+→ TARGET: X=249 mm, Y=223 mm, Distance=334 mm
+  Servo angle: 42.4°
+→ TARGET: X=253 mm, Y=225 mm, Distance=338 mm
+  Servo angle: 42.6°
+→ TARGET: X=257 mm, Y=229 mm, Distance=344 mm
+  Servo angle: 42.6°
+→ TARGET: X=259 mm, Y=230 mm, Distance=346 mm
+  Servo angle: 42.8°
+→ TARGET: X=255 mm, Y=230 mm, Distance=343 mm
+  Servo angle: 42.3°
+→ TARGET: X=253 mm, Y=233 mm, Distance=343 mm
+  Servo angle: 41.8°
+→ TARGET: X=251 mm, Y=234 mm, Distance=343 mm
+  Servo angle: 41.5°
+→ TARGET: X=253 mm, Y=235 mm, Distance=345 mm
+  Servo angle: 41.6°
+→ TARGET: X=253 mm, Y=234 mm, Distance=344 mm
+  Servo angle: 41.7°
+→ TARGET: X=252 mm, Y=230 mm, Distance=341 mm
+  Servo angle: 42.0°
+→ TARGET: X=252 mm, Y=225 mm, Distance=337 mm
+  Servo angle: 42.5°
+→ TARGET: X=251 mm, Y=222 mm, Distance=335 mm
+  Servo angle: 42.7°
+→ TARGET: X=256 mm, Y=225 mm, Distance=340 mm
+  Servo angle: 43.0°
+→ TARGET: X=259 mm, Y=227 mm, Distance=344 mm
+  Servo angle: 43.1°
+→ TARGET: X=263 mm, Y=229 mm, Distance=348 mm
+  Servo angle: 43.3°
+→ TARGET: X=263 mm, Y=228 mm, Distance=348 mm
+  Servo angle: 43.4°
+→ TARGET: X=259 mm, Y=226 mm, Distance=343 mm
+  Servo angle: 43.2°
+→ TARGET: X=252 mm, Y=224 mm, Distance=337 mm
+  Servo angle: 42.6°
+→ TARGET: X=248 mm, Y=222 mm, Distance=332 mm
+  Servo angle: 42.4°
+→ TARGET: X=243 mm, Y=220 mm, Distance=327 mm
+  Servo angle: 42.0°
+→ TARGET: X=243 mm, Y=219 mm, Distance=327 mm
+  Servo angle: 42.1°
+→ TARGET: X=247 mm, Y=220 mm, Distance=330 mm
+  Servo angle: 42.5°
+→ TARGET: X=250 mm, Y=219 mm, Distance=332 mm
+  Servo angle: 42.9°
+→ TARGET: X=251 mm, Y=219 mm, Distance=333 mm
+  Servo angle: 43.0°
+→ TARGET: X=248 mm, Y=217 mm, Distance=329 mm
+  Servo angle: 42.9°
+→ TARGET: X=246 mm, Y=216 mm, Distance=327 mm
+  Servo angle: 42.8°
+→ TARGET: X=250 mm, Y=216 mm, Distance=330 mm
+  Servo angle: 43.2°
+→ TARGET: X=252 mm, Y=215 mm, Distance=331 mm
+  Servo angle: 43.6°
+→ TARGET: X=252 mm, Y=215 mm, Distance=331 mm
+  Servo angle: 43.6°
+→ TARGET: X=262 mm, Y=227 mm, Distance=346 mm
+  Servo angle: 43.4°
+→ TARGET: X=267 mm, Y=234 mm, Distance=355 mm
+  Servo angle: 43.2°
+→ TARGET: X=268 mm, Y=236 mm, Distance=357 mm
+  Servo angle: 43.1°
+→ TARGET: X=267 mm, Y=235 mm, Distance=355 mm
+  Servo angle: 43.1°
+→ TARGET: X=266 mm, Y=232 mm, Distance=352 mm
+  Servo angle: 43.3°
+→ TARGET: X=264 mm, Y=229 mm, Distance=349 mm
+  Servo angle: 43.4°
+→ TARGET: X=260 mm, Y=225 mm, Distance=343 mm
+  Servo angle: 43.4°
+→ TARGET: X=261 mm, Y=226 mm, Distance=345 mm
+  Servo angle: 43.4°
+→ TARGET: X=262 mm, Y=226 mm, Distance=346 mm
+  Servo angle: 43.5°
+→ TARGET: X=262 mm, Y=225 mm, Distance=345 mm
+  Servo angle: 43.6°
+→ TARGET: X=260 mm, Y=223 mm, Distance=342 mm
+  Servo angle: 43.6°
+→ TARGET: X=259 mm, Y=221 mm, Distance=340 mm
+  Servo angle: 43.7°
+→ TARGET: X=259 mm, Y=222 mm, Distance=341 mm
+  Servo angle: 43.6°
+→ TARGET: X=264 mm, Y=223 mm, Distance=345 mm
+  Servo angle: 44.0°
+→ TARGET: X=267 mm, Y=224 mm, Distance=348 mm
+  Servo angle: 44.3°
+→ TARGET: X=267 mm, Y=223 mm, Distance=347 mm
+  Servo angle: 44.4°
+→ TARGET: X=265 mm, Y=222 mm, Distance=345 mm
+  Servo angle: 44.3°
+→ TARGET: X=264 mm, Y=222 mm, Distance=344 mm
+  Servo angle: 44.1°
+→ TARGET: X=258 mm, Y=219 mm, Distance=338 mm
+  Servo angle: 43.8°
+→ TARGET: X=253 mm, Y=216 mm, Distance=332 mm
+  Servo angle: 43.6°
+→ TARGET: X=247 mm, Y=213 mm, Distance=326 mm
+  Servo angle: 43.2°
+→ TARGET: X=245 mm, Y=211 mm, Distance=323 mm
+  Servo angle: 43.2°
+→ TARGET: X=244 mm, Y=210 mm, Distance=321 mm
+  Servo angle: 43.2°
+→ TARGET: X=247 mm, Y=213 mm, Distance=326 mm
+  Servo angle: 43.2°
+→ TARGET: X=264 mm, Y=231 mm, Distance=350 mm
+  Servo angle: 43.2°
+→ TARGET: X=286 mm, Y=258 mm, Distance=385 mm
+  Servo angle: 42.9°
+→ TARGET: X=291 mm, Y=261 mm, Distance=390 mm
+  Servo angle: 43.1°
+→ TARGET: X=290 mm, Y=259 mm, Distance=388 mm
+  Servo angle: 43.2°
+→ TARGET: X=286 mm, Y=255 mm, Distance=383 mm
+  Servo angle: 43.2°
+→ TARGET: X=282 mm, Y=251 mm, Distance=377 mm
+  Servo angle: 43.1°
+→ TARGET: X=274 mm, Y=243 mm, Distance=366 mm
+  Servo angle: 43.1°
+→ TARGET: X=269 mm, Y=240 mm, Distance=360 mm
+  Servo angle: 42.8°
+→ TARGET: X=266 mm, Y=239 mm, Distance=357 mm
+  Servo angle: 42.6°
+→ TARGET: X=265 mm, Y=240 mm, Distance=357 mm
+  Servo angle: 42.4°
+→ TARGET: X=262 mm, Y=238 mm, Distance=353 mm
+  Servo angle: 42.3°
+→ TARGET: X=259 mm, Y=236 mm, Distance=350 mm
+  Servo angle: 42.2°
+→ TARGET: X=257 mm, Y=234 mm, Distance=347 mm
+  Servo angle: 42.1°
+→ TARGET: X=259 mm, Y=233 mm, Distance=348 mm
+  Servo angle: 42.5°
+→ TARGET: X=259 mm, Y=232 mm, Distance=347 mm
+  Servo angle: 42.6°
+→ TARGET: X=256 mm, Y=230 mm, Distance=344 mm
+  Servo angle: 42.4°
+→ TARGET: X=255 mm, Y=230 mm, Distance=343 mm
+  Servo angle: 42.3°
+→ TARGET: X=259 mm, Y=233 mm, Distance=348 mm
+  Servo angle: 42.5°
+→ TARGET: X=262 mm, Y=236 mm, Distance=352 mm
+  Servo angle: 42.5°
+→ TARGET: X=262 mm, Y=235 mm, Distance=351 mm
+  Servo angle: 42.6°
+→ TARGET: X=263 mm, Y=234 mm, Distance=352 mm
+  Servo angle: 42.8°
+→ TARGET: X=260 mm, Y=232 mm, Distance=348 mm
+  Servo angle: 42.7°
+→ TARGET: X=259 mm, Y=232 mm, Distance=347 mm
+  Servo angle: 42.6°
+→ TARGET: X=257 mm, Y=233 mm, Distance=346 mm
+  Servo angle: 42.2°
+→ TARGET: X=254 mm, Y=235 mm, Distance=346 mm
+  Servo angle: 41.7°
+→ TARGET: X=256 mm, Y=237 mm, Distance=348 mm
+  Servo angle: 41.7°
+→ TARGET: X=259 mm, Y=239 mm, Distance=352 mm
+  Servo angle: 41.9°
+→ TARGET: X=262 mm, Y=243 mm, Distance=357 mm
+  Servo angle: 41.8°
+→ TARGET: X=266 mm, Y=246 mm, Distance=362 mm
+  Servo angle: 41.9°
+→ TARGET: X=267 mm, Y=246 mm, Distance=363 mm
+  Servo angle: 42.1°
+→ TARGET: X=273 mm, Y=250 mm, Distance=370 mm
+  Servo angle: 42.3°
+→ TARGET: X=277 mm, Y=253 mm, Distance=375 mm
+  Servo angle: 42.4°
+→ TARGET: X=282 mm, Y=258 mm, Distance=382 mm
+  Servo angle: 42.5°
+→ TARGET: X=286 mm, Y=260 mm, Distance=386 mm
+  Servo angle: 42.7°
+→ TARGET: X=287 mm, Y=260 mm, Distance=387 mm
+  Servo angle: 42.8°
+→ TARGET: X=287 mm, Y=261 mm, Distance=387 mm
+  Servo angle: 42.7°
+→ TARGET: X=282 mm, Y=257 mm, Distance=381 mm
+  Servo angle: 42.6°
+→ TARGET: X=279 mm, Y=253 mm, Distance=376 mm
+  Servo angle: 42.6°
+→ TARGET: X=274 mm, Y=249 mm, Distance=370 mm
+  Servo angle: 42.5°
+→ TARGET: X=270 mm, Y=246 mm, Distance=365 mm
+  Servo angle: 42.4°
+→ TARGET: X=269 mm, Y=245 mm, Distance=363 mm
+  Servo angle: 42.4°
+→ TARGET: X=269 mm, Y=245 mm, Distance=363 mm
+  Servo angle: 42.4°
+→ TARGET: X=268 mm, Y=244 mm, Distance=362 mm
+  Servo angle: 42.4°
+→ TARGET: X=266 mm, Y=243 mm, Distance=360 mm
+  Servo angle: 42.2°
+→ TARGET: X=265 mm, Y=242 mm, Distance=358 mm
+  Servo angle: 42.2°
+→ TARGET: X=267 mm, Y=245 mm, Distance=362 mm
+  Servo angle: 42.1°
+→ TARGET: X=267 mm, Y=245 mm, Distance=362 mm
+  Servo angle: 42.1°
+→ TARGET: X=263 mm, Y=242 mm, Distance=357 mm
+  Servo angle: 42.0°
+→ TARGET: X=261 mm, Y=240 mm, Distance=354 mm
+  Servo angle: 42.0°
+→ TARGET: X=260 mm, Y=239 mm, Distance=353 mm
+  Servo angle: 42.0°
+→ TARGET: X=259 mm, Y=238 mm, Distance=351 mm
+  Servo angle: 42.0°
+→ TARGET: X=258 mm, Y=237 mm, Distance=350 mm
+  Servo angle: 42.0°
+→ TARGET: X=257 mm, Y=236 mm, Distance=348 mm
+  Servo angle: 41.9°
+→ TARGET: X=257 mm, Y=236 mm, Distance=348 mm
+  Servo angle: 41.9°
+→ TARGET: X=261 mm, Y=238 mm, Distance=353 mm
+  Servo angle: 42.2°
+→ TARGET: X=268 mm, Y=242 mm, Distance=361 mm
+  Servo angle: 42.5°
+→ TARGET: X=274 mm, Y=247 mm, Distance=368 mm
+  Servo angle: 42.7°
+→ TARGET: X=281 mm, Y=250 mm, Distance=376 mm
+  Servo angle: 43.1°
+→ TARGET: X=286 mm, Y=251 mm, Distance=380 mm
+  Servo angle: 43.5°
+→ TARGET: X=282 mm, Y=248 mm, Distance=375 mm
+  Servo angle: 43.4°
+→ TARGET: X=274 mm, Y=240 mm, Distance=364 mm
+  Servo angle: 43.4°
+→ TARGET: X=270 mm, Y=237 mm, Distance=359 mm
+  Servo angle: 43.3°
+→ TARGET: X=268 mm, Y=235 mm, Distance=356 mm
+  Servo angle: 43.2°
+→ TARGET: X=265 mm, Y=233 mm, Distance=352 mm
+  Servo angle: 43.1°
+→ TARGET: X=265 mm, Y=232 mm, Distance=352 mm
+  Servo angle: 43.2°
+→ TARGET: X=269 mm, Y=236 mm, Distance=357 mm
+  Servo angle: 43.2°
+→ TARGET: X=281 mm, Y=246 mm, Distance=373 mm
+  Servo angle: 43.5°
+→ TARGET: X=288 mm, Y=250 mm, Distance=381 mm
+  Servo angle: 43.8°
+→ TARGET: X=292 mm, Y=251 mm, Distance=385 mm
+  Servo angle: 44.1°
+→ TARGET: X=293 mm, Y=250 mm, Distance=385 mm
+  Servo angle: 44.3°
+→ TARGET: X=288 mm, Y=248 mm, Distance=380 mm
+  Servo angle: 44.0°
+→ TARGET: X=281 mm, Y=245 mm, Distance=372 mm
+  Servo angle: 43.6°
+→ TARGET: X=279 mm, Y=241 mm, Distance=368 mm
+  Servo angle: 43.8°
+→ TARGET: X=279 mm, Y=239 mm, Distance=367 mm
+  Servo angle: 44.0°
+→ TARGET: X=282 mm, Y=240 mm, Distance=370 mm
+  Servo angle: 44.2°
+→ TARGET: X=287 mm, Y=243 mm, Distance=376 mm
+  Servo angle: 44.4°
+→ TARGET: X=299 mm, Y=245 mm, Distance=386 mm
+  Servo angle: 45.4°
+→ TARGET: X=300 mm, Y=243 mm, Distance=386 mm
+  Servo angle: 45.7°
+→ TARGET: X=246 mm, Y=215 mm, Distance=326 mm
+  Servo angle: 42.9°
+→ TARGET: X=246 mm, Y=215 mm, Distance=326 mm
+  Servo angle: 42.9°
+→ TARGET: X=291 mm, Y=222 mm, Distance=366 mm
+  Servo angle: 46.9°
+→ TARGET: X=290 mm, Y=222 mm, Distance=365 mm
+  Servo angle: 46.8°
+→ TARGET: X=230 mm, Y=212 mm, Distance=312 mm
+  Servo angle: 41.3°
+→ TARGET: X=233 mm, Y=212 mm, Distance=315 mm
+  Servo angle: 41.6°
+→ TARGET: X=318 mm, Y=274 mm, Distance=419 mm
+  Servo angle: 44.5°
+→ TARGET: X=315 mm, Y=273 mm, Distance=416 mm
+  Servo angle: 44.3°
+→ TARGET: X=215 mm, Y=181 mm, Distance=281 mm
+  Servo angle: 42.9°
+→ TARGET: X=219 mm, Y=184 mm, Distance=286 mm
+  Servo angle: 43.1°
+→ TARGET: X=220 mm, Y=188 mm, Distance=289 mm
+  Servo angle: 42.7°
+→ TARGET: X=222 mm, Y=192 mm, Distance=293 mm
+  Servo angle: 42.5°
+→ TARGET: X=224 mm, Y=197 mm, Distance=298 mm
+  Servo angle: 42.2°
+→ TARGET: X=228 mm, Y=201 mm, Distance=303 mm
+  Servo angle: 42.3°
+→ TARGET: X=231 mm, Y=202 mm, Distance=306 mm
+  Servo angle: 42.5°
+→ TARGET: X=236 mm, Y=204 mm, Distance=311 mm
+  Servo angle: 42.9°
+→ TARGET: X=240 mm, Y=206 mm, Distance=316 mm
+  Servo angle: 43.2°
+→ TARGET: X=247 mm, Y=209 mm, Distance=323 mm
+  Servo angle: 43.6°
+→ TARGET: X=252 mm, Y=212 mm, Distance=329 mm
+  Servo angle: 43.9°
+→ TARGET: X=261 mm, Y=219 mm, Distance=340 mm
+  Servo angle: 44.1°
+→ TARGET: X=267 mm, Y=227 mm, Distance=350 mm
+  Servo angle: 43.9°
+→ TARGET: X=266 mm, Y=231 mm, Distance=352 mm
+  Servo angle: 43.4°
+→ TARGET: X=263 mm, Y=232 mm, Distance=350 mm
+  Servo angle: 43.0°
+→ TARGET: X=257 mm, Y=229 mm, Distance=344 mm
+  Servo angle: 42.6°
+→ TARGET: X=257 mm, Y=232 mm, Distance=346 mm
+  Servo angle: 42.3°
+→ TARGET: X=256 mm, Y=234 mm, Distance=346 mm
+  Servo angle: 42.0°
+→ TARGET: X=256 mm, Y=234 mm, Distance=346 mm
+  Servo angle: 42.0°
+→ TARGET: X=258 mm, Y=235 mm, Distance=348 mm
+  Servo angle: 42.2°
+→ TARGET: X=261 mm, Y=236 mm, Distance=351 mm
+  Servo angle: 42.4°
+→ TARGET: X=261 mm, Y=236 mm, Distance=351 mm
+  Servo angle: 42.4°
+→ TARGET: X=260 mm, Y=234 mm, Distance=349 mm
+  Servo angle: 42.5°
+→ TARGET: X=257 mm, Y=232 mm, Distance=346 mm
+  Servo angle: 42.3°
+→ TARGET: X=256 mm, Y=231 mm, Distance=344 mm
+  Servo angle: 42.3°
+→ TARGET: X=253 mm, Y=230 mm, Distance=341 mm
+  Servo angle: 42.1°
+→ TARGET: X=252 mm, Y=229 mm, Distance=340 mm
+  Servo angle: 42.1°
+→ TARGET: X=252 mm, Y=228 mm, Distance=339 mm
+  Servo angle: 42.2°
+→ TARGET: X=252 mm, Y=227 mm, Distance=339 mm
+  Servo angle: 42.3°
+→ TARGET: X=253 mm, Y=226 mm, Distance=339 mm
+  Servo angle: 42.5°
+→ TARGET: X=252 mm, Y=225 mm, Distance=337 mm
+  Servo angle: 42.5°
+→ TARGET: X=253 mm, Y=224 mm, Distance=337 mm
+  Servo angle: 42.7°
+→ TARGET: X=255 mm, Y=222 mm, Distance=338 mm
+  Servo angle: 43.2°
+→ TARGET: X=256 mm, Y=221 mm, Distance=338 mm
+  Servo angle: 43.4°
+→ TARGET: X=256 mm, Y=220 mm, Distance=337 mm
+  Servo angle: 43.5°
+→ TARGET: X=255 mm, Y=221 mm, Distance=337 mm
+  Servo angle: 43.3°
+→ TARGET: X=255 mm, Y=222 mm, Distance=338 mm
+  Servo angle: 43.2°
+→ TARGET: X=256 mm, Y=222 mm, Distance=338 mm
+  Servo angle: 43.3°
+→ TARGET: X=258 mm, Y=221 mm, Distance=339 mm
+  Servo angle: 43.6°
+→ TARGET: X=261 mm, Y=222 mm, Distance=342 mm
+  Servo angle: 43.8°
+→ TARGET: X=264 mm, Y=224 mm, Distance=346 mm
+  Servo angle: 43.9°
+→ TARGET: X=266 mm, Y=226 mm, Distance=349 mm
+  Servo angle: 43.9°
+→ TARGET: X=266 mm, Y=226 mm, Distance=349 mm
+  Servo angle: 43.9°
+→ TARGET: X=265 mm, Y=225 mm, Distance=347 mm
+  Servo angle: 43.9°
+→ TARGET: X=260 mm, Y=220 mm, Distance=340 mm
+  Servo angle: 43.9°
+→ TARGET: X=258 mm, Y=224 mm, Distance=341 mm
+  Servo angle: 43.3°
+→ TARGET: X=252 mm, Y=230 mm, Distance=341 mm
+  Servo angle: 42.0°
+→ TARGET: X=249 mm, Y=231 mm, Distance=339 mm
+  Servo angle: 41.5°
+→ TARGET: X=245 mm, Y=212 mm, Distance=323 mm
+  Servo angle: 43.1°
+→ TARGET: X=243 mm, Y=211 mm, Distance=321 mm
+  Servo angle: 43.0°
+→ TARGET: X=250 mm, Y=245 mm, Distance=350 mm
+  Servo angle: 40.3°
+→ TARGET: X=249 mm, Y=244 mm, Distance=348 mm
+  Servo angle: 40.3°
+→ TARGET: X=267 mm, Y=250 mm, Distance=365 mm
+  Servo angle: 41.7°
+→ TARGET: X=268 mm, Y=249 mm, Distance=365 mm
+  Servo angle: 41.9°
+→ TARGET: X=168 mm, Y=182 mm, Distance=247 mm
+  Servo angle: 35.9°
+→ TARGET: X=170 mm, Y=189 mm, Distance=254 mm
+  Servo angle: 35.4°
+→ TARGET: X=-95 mm, Y=348 mm, Distance=360 mm
+  Servo angle: -13.4°
+→ TARGET: X=-25 mm, Y=323 mm, Distance=323 mm
+  Servo angle: -3.8°
+→ TARGET: X=189 mm, Y=223 mm, Distance=292 mm
+  Servo angle: 34.7°
+→ TARGET: X=190 mm, Y=222 mm, Distance=292 mm
+  Servo angle: 34.9°
+→ TARGET: X=222 mm, Y=201 mm, Distance=299 mm
+  Servo angle: 41.5°
+→ TARGET: X=285 mm, Y=185 mm, Distance=339 mm
+  Servo angle: 50.5°
+→ TARGET: X=283 mm, Y=190 mm, Distance=340 mm
+  Servo angle: 49.7°
+→ TARGET: X=199 mm, Y=188 mm, Distance=273 mm
+  Servo angle: 39.9°
+→ TARGET: X=202 mm, Y=190 mm, Distance=277 mm
+  Servo angle: 40.1°
+→ TARGET: X=286 mm, Y=199 mm, Distance=348 mm
+  Servo angle: 49.0°
+→ TARGET: X=285 mm, Y=199 mm, Distance=347 mm
+  Servo angle: 48.9°
+→ TARGET: X=278 mm, Y=235 mm, Distance=364 mm
+  Servo angle: 44.3°
+→ TARGET: X=278 mm, Y=235 mm, Distance=364 mm
+  Servo angle: 44.3°
+→ TARGET: X=251 mm, Y=239 mm, Distance=346 mm
+  Servo angle: 41.0°
+→ TARGET: X=252 mm, Y=238 mm, Distance=346 mm
+  Servo angle: 41.2°
+→ TARGET: X=261 mm, Y=224 mm, Distance=343 mm
+  Servo angle: 43.6°
+→ TARGET: X=260 mm, Y=223 mm, Distance=342 mm
+  Servo angle: 43.6°
+→ TARGET: X=329 mm, Y=218 mm, Distance=394 mm
+  Servo angle: 50.8°
+→ TARGET: X=327 mm, Y=217 mm, Distance=392 mm
+  Servo angle: 50.8°
+→ TARGET: X=276 mm, Y=250 mm, Distance=372 mm
+  Servo angle: 42.6°
+→ TARGET: X=275 mm, Y=250 mm, Distance=371 mm
+  Servo angle: 42.5°
+→ TARGET: X=223 mm, Y=453 mm, Distance=504 mm
+  Servo angle: 23.9°
+→ TARGET: X=226 mm, Y=452 mm, Distance=505 mm
+  Servo angle: 24.2°
+→ TARGET: X=319 mm, Y=661 mm, Distance=733 mm
+  Servo angle: 24.2°
+→ TARGET: X=313 mm, Y=686 mm, Distance=754 mm
+  Servo angle: 23.0°
+→ TARGET: X=307 mm, Y=702 mm, Distance=766 mm
+  Servo angle: 22.2°
+→ TARGET: X=122 mm, Y=926 mm, Distance=934 mm
+  Servo angle: 7.1°
+→ TARGET: X=143 mm, Y=973 mm, Distance=983 mm
+  Servo angle: 8.0°
+→ TARGET: X=341 mm, Y=1137 mm, Distance=1187 mm
+  Servo angle: 16.0°
+→ TARGET: X=-190 mm, Y=757 mm, Distance=780 mm
+  Servo angle: -13.2°
+→ TARGET: X=-115 mm, Y=804 mm, Distance=812 mm
+  Servo angle: -7.7°
+→ TARGET: X=72 mm, Y=429 mm, Distance=435 mm
+  Servo angle: 8.5°
+→ TARGET: X=68 mm, Y=509 mm, Distance=513 mm
+  Servo angle: 6.9°
+→ TARGET: X=144 mm, Y=1038 mm, Distance=1047 mm
+  Servo angle: 7.5°
+→ TARGET: X=131 mm, Y=1035 mm, Distance=1043 mm
+  Servo angle: 6.9°
+→ TARGET: X=118 mm, Y=1035 mm, Distance=1041 mm
+  Servo angle: 6.2°
+→ TARGET: X=102 mm, Y=1038 mm, Distance=1042 mm
+  Servo angle: 5.4°
+→ TARGET: X=91 mm, Y=1034 mm, Distance=1037 mm
+  Servo angle: 4.8°
+→ TARGET: X=90 mm, Y=1036 mm, Distance=1039 mm
+  Servo angle: 4.7°
+→ TARGET: X=94 mm, Y=1034 mm, Distance=1038 mm
+  Servo angle: 5.0°
+→ TARGET: X=101 mm, Y=1030 mm, Distance=1034 mm
+  Servo angle: 5.3°
+→ TARGET: X=105 mm, Y=1026 mm, Distance=1031 mm
+  Servo angle: 5.6°
+→ TARGET: X=108 mm, Y=1023 mm, Distance=1028 mm
+  Servo angle: 5.7°
+→ TARGET: X=111 mm, Y=1020 mm, Distance=1026 mm
+  Servo angle: 5.9°
+→ TARGET: X=113 mm, Y=1016 mm, Distance=1022 mm
+  Servo angle: 6.1°
+→ TARGET: X=115 mm, Y=1009 mm, Distance=1015 mm
+  Servo angle: 6.2°
+→ TARGET: X=124 mm, Y=987 mm, Distance=994 mm
+  Servo angle: 6.8°
+→ TARGET: X=137 mm, Y=952 mm, Distance=961 mm
+  Servo angle: 7.8°
+→ TARGET: X=146 mm, Y=927 mm, Distance=938 mm
+  Servo angle: 8.5°
+→ TARGET: X=-11 mm, Y=1199 mm, Distance=1199 mm
+  Servo angle: -0.5°
+→ TARGET: X=-6 mm, Y=1179 mm, Distance=1179 mm
+  Servo angle: -0.3°
+→ TARGET: X=72 mm, Y=1080 mm, Distance=1082 mm
+  Servo angle: 3.6°
+→ TARGET: X=74 mm, Y=1075 mm, Distance=1077 mm
+  Servo angle: 3.8°
+→ TARGET: X=152 mm, Y=861 mm, Distance=874 mm
+  Servo angle: 9.5°
+→ TARGET: X=229 mm, Y=780 mm, Distance=812 mm
+  Servo angle: 15.4°
+→ TARGET: X=228 mm, Y=769 mm, Distance=802 mm
+  Servo angle: 15.6°
+→ TARGET: X=281 mm, Y=445 mm, Distance=526 mm
+  Servo angle: 29.6°
+→ TARGET: X=314 mm, Y=310 mm, Distance=441 mm
+  Servo angle: 41.1°
+→ TARGET: X=310 mm, Y=300 mm, Distance=431 mm
+  Servo angle: 41.5°
+→ TARGET: X=227 mm, Y=162 mm, Distance=278 mm
+  Servo angle: 47.0°
+→ TARGET: X=228 mm, Y=161 mm, Distance=279 mm
+  Servo angle: 47.2°
+→ TARGET: X=254 mm, Y=276 mm, Distance=375 mm
+  Servo angle: 37.9°
+→ TARGET: X=254 mm, Y=275 mm, Distance=374 mm
+  Servo angle: 38.0°
+→ TARGET: X=304 mm, Y=211 mm, Distance=370 mm
+  Servo angle: 49.4°
+→ TARGET: X=303 mm, Y=214 mm, Distance=370 mm
+  Servo angle: 48.9°
+→ TARGET: X=277 mm, Y=245 mm, Distance=369 mm
+  Servo angle: 43.2°
+→ TARGET: X=279 mm, Y=247 mm, Distance=372 mm
+  Servo angle: 43.2°
+→ TARGET: X=357 mm, Y=342 mm, Distance=494 mm
+  Servo angle: 42.3°
+→ TARGET: X=350 mm, Y=336 mm, Distance=485 mm
+  Servo angle: 42.2°
+→ TARGET: X=343 mm, Y=329 mm, Distance=475 mm
+  Servo angle: 42.1°
+→ TARGET: X=337 mm, Y=322 mm, Distance=466 mm
+  Servo angle: 42.2°
+→ TARGET: X=332 mm, Y=315 mm, Distance=457 mm
+  Servo angle: 42.3°
+→ TARGET: X=327 mm, Y=311 mm, Distance=451 mm
+  Servo angle: 42.2°
+→ TARGET: X=325 mm, Y=308 mm, Distance=447 mm
+  Servo angle: 42.2°
+→ TARGET: X=324 mm, Y=303 mm, Distance=443 mm
+  Servo angle: 42.5°
+→ TARGET: X=324 mm, Y=302 mm, Distance=442 mm
+  Servo angle: 42.6°
+→ TARGET: X=325 mm, Y=302 mm, Distance=443 mm
+  Servo angle: 42.7°
+→ TARGET: X=325 mm, Y=304 mm, Distance=445 mm
+  Servo angle: 42.6°
+→ TARGET: X=327 mm, Y=305 mm, Distance=447 mm
+  Servo angle: 42.6°
+→ TARGET: X=327 mm, Y=304 mm, Distance=446 mm
+  Servo angle: 42.7°
+→ TARGET: X=321 mm, Y=294 mm, Distance=435 mm
+  Servo angle: 43.0°
+→ TARGET: X=317 mm, Y=286 mm, Distance=426 mm
+  Servo angle: 43.3°
+→ TARGET: X=325 mm, Y=283 mm, Distance=430 mm
+  Servo angle: 44.3°
+→ TARGET: X=335 mm, Y=286 mm, Distance=440 mm
+  Servo angle: 44.9°
+→ TARGET: X=338 mm, Y=285 mm, Distance=442 mm
+  Servo angle: 45.3°
+→ TARGET: X=339 mm, Y=282 mm, Distance=440 mm
+  Servo angle: 45.6°
+→ TARGET: X=343 mm, Y=280 mm, Distance=442 mm
+  Servo angle: 46.1°
+→ TARGET: X=347 mm, Y=280 mm, Distance=445 mm
+  Servo angle: 46.4°
+→ TARGET: X=352 mm, Y=284 mm, Distance=452 mm
+  Servo angle: 46.5°
+→ TARGET: X=351 mm, Y=285 mm, Distance=452 mm
+  Servo angle: 46.3°
+→ TARGET: X=350 mm, Y=284 mm, Distance=450 mm
+  Servo angle: 46.3°
+→ TARGET: X=351 mm, Y=283 mm, Distance=450 mm
+  Servo angle: 46.5°
+→ TARGET: X=358 mm, Y=287 mm, Distance=458 mm
+  Servo angle: 46.7°
+→ TARGET: X=360 mm, Y=291 mm, Distance=462 mm
+  Servo angle: 46.6°
+→ TARGET: X=359 mm, Y=295 mm, Distance=464 mm
+  Servo angle: 46.1°
+→ TARGET: X=355 mm, Y=297 mm, Distance=462 mm
+  Servo angle: 45.7°
+→ TARGET: X=350 mm, Y=298 mm, Distance=459 mm
+  Servo angle: 45.2°
+→ TARGET: X=348 mm, Y=301 mm, Distance=460 mm
+  Servo angle: 44.8°
+→ TARGET: X=341 mm, Y=304 mm, Distance=456 mm
+  Servo angle: 43.9°
+→ TARGET: X=334 mm, Y=304 mm, Distance=451 mm
+  Servo angle: 43.3°
+→ TARGET: X=331 mm, Y=305 mm, Distance=450 mm
+  Servo angle: 43.0°
+→ TARGET: X=327 mm, Y=307 mm, Distance=448 mm
+  Servo angle: 42.5°
+→ TARGET: X=324 mm, Y=308 mm, Distance=447 mm
+  Servo angle: 42.1°
+→ TARGET: X=322 mm, Y=308 mm, Distance=445 mm
+  Servo angle: 42.0°
+→ TARGET: X=320 mm, Y=307 mm, Distance=443 mm
+  Servo angle: 41.9°
+→ TARGET: X=321 mm, Y=305 mm, Distance=442 mm
+  Servo angle: 42.1°
+→ TARGET: X=326 mm, Y=301 mm, Distance=443 mm
+  Servo angle: 42.9°
+→ TARGET: X=332 mm, Y=299 mm, Distance=446 mm
+  Servo angle: 43.6°
+→ TARGET: X=338 mm, Y=298 mm, Distance=450 mm
+  Servo angle: 44.2°
+→ TARGET: X=345 mm, Y=296 mm, Distance=454 mm
+  Servo angle: 44.9°
+→ TARGET: X=347 mm, Y=298 mm, Distance=457 mm
+  Servo angle: 44.9°
+→ TARGET: X=344 mm, Y=296 mm, Distance=453 mm
+  Servo angle: 44.8°
+→ TARGET: X=341 mm, Y=293 mm, Distance=449 mm
+  Servo angle: 44.8°
+→ TARGET: X=343 mm, Y=294 mm, Distance=451 mm
+  Servo angle: 44.9°
+→ TARGET: X=349 mm, Y=295 mm, Distance=456 mm
+  Servo angle: 45.3°
+→ TARGET: X=352 mm, Y=295 mm, Distance=459 mm
+  Servo angle: 45.6°
+→ TARGET: X=348 mm, Y=290 mm, Distance=452 mm
+  Servo angle: 45.7°
+→ TARGET: X=340 mm, Y=284 mm, Distance=443 mm
+  Servo angle: 45.5°
+→ TARGET: X=330 mm, Y=280 mm, Distance=432 mm
+  Servo angle: 45.0°
+→ TARGET: X=322 mm, Y=277 mm, Distance=424 mm
+  Servo angle: 44.6°
+→ TARGET: X=316 mm, Y=273 mm, Distance=417 mm
+  Servo angle: 44.4°
+→ TARGET: X=310 mm, Y=267 mm, Distance=409 mm
+  Servo angle: 44.4°
+→ TARGET: X=303 mm, Y=261 mm, Distance=399 mm
+  Servo angle: 44.3°
+→ TARGET: X=302 mm, Y=259 mm, Distance=397 mm
+  Servo angle: 44.3°
+→ TARGET: X=301 mm, Y=260 mm, Distance=397 mm
+  Servo angle: 44.2°
+→ TARGET: X=304 mm, Y=261 mm, Distance=400 mm
+  Servo angle: 44.3°
+→ TARGET: X=309 mm, Y=262 mm, Distance=405 mm
+  Servo angle: 44.7°
+→ TARGET: X=316 mm, Y=268 mm, Distance=414 mm
+  Servo angle: 44.8°
+→ TARGET: X=323 mm, Y=278 mm, Distance=426 mm
+  Servo angle: 44.6°
+→ TARGET: X=327 mm, Y=284 mm, Distance=433 mm
+  Servo angle: 44.4°
+→ TARGET: X=326 mm, Y=286 mm, Distance=433 mm
+  Servo angle: 44.1°
+→ TARGET: X=322 mm, Y=285 mm, Distance=430 mm
+  Servo angle: 43.9°
+→ TARGET: X=325 mm, Y=284 mm, Distance=431 mm
+  Servo angle: 44.2°
+→ TARGET: X=332 mm, Y=285 mm, Distance=437 mm
+  Servo angle: 44.7°
+→ TARGET: X=344 mm, Y=285 mm, Distance=446 mm
+  Servo angle: 45.8°
+→ TARGET: X=348 mm, Y=283 mm, Distance=448 mm
+  Servo angle: 46.3°
+→ TARGET: X=350 mm, Y=283 mm, Distance=450 mm
+  Servo angle: 46.4°
+→ TARGET: X=349 mm, Y=284 mm, Distance=449 mm
+  Servo angle: 46.3°
+→ TARGET: X=349 mm, Y=286 mm, Distance=451 mm
+  Servo angle: 46.1°
+→ TARGET: X=347 mm, Y=283 mm, Distance=447 mm
+  Servo angle: 46.2°
+→ TARGET: X=343 mm, Y=276 mm, Distance=440 mm
+  Servo angle: 46.5°
+→ TARGET: X=339 mm, Y=274 mm, Distance=435 mm
+  Servo angle: 46.3°
+→ TARGET: X=333 mm, Y=273 mm, Distance=430 mm
+  Servo angle: 45.9°
+→ TARGET: X=328 mm, Y=273 mm, Distance=426 mm
+  Servo angle: 45.4°
+→ TARGET: X=323 mm, Y=278 mm, Distance=426 mm
+  Servo angle: 44.6°
+→ TARGET: X=319 mm, Y=292 mm, Distance=432 mm
+  Servo angle: 43.0°
+→ TARGET: X=318 mm, Y=302 mm, Distance=438 mm
+  Servo angle: 42.1°
+→ TARGET: X=376 mm, Y=1207 mm, Distance=1264 mm
+  Servo angle: 16.7°
+→ TARGET: X=326 mm, Y=1367 mm, Distance=1405 mm
+  Servo angle: 13.0°
+→ TARGET: X=324 mm, Y=1363 mm, Distance=1400 mm
+  Servo angle: 12.9°
+→ TARGET: X=478 mm, Y=1180 mm, Distance=1273 mm
+  Servo angle: 21.2°
+→ TARGET: X=304 mm, Y=1233 mm, Distance=1269 mm
+  Servo angle: 13.3°
+→ TARGET: X=286 mm, Y=1231 mm, Distance=1263 mm
+  Servo angle: 12.6°
+→ TARGET: X=608 mm, Y=1293 mm, Distance=1428 mm
+  Servo angle: 24.4°
+→ TARGET: X=590 mm, Y=1301 mm, Distance=1428 mm
+  Servo angle: 23.6°
+→ TARGET: X=588 mm, Y=1266 mm, Distance=1395 mm
+  Servo angle: 24.1°
+→ TARGET: X=512 mm, Y=1229 mm, Distance=1331 mm
+  Servo angle: 21.8°
+→ TARGET: X=486 mm, Y=1227 mm, Distance=1319 mm
+  Servo angle: 20.8°
+→ TARGET: X=1140 mm, Y=1310 mm, Distance=1736 mm
+  Servo angle: 40.0°
+→ TARGET: X=988 mm, Y=1325 mm, Distance=1652 mm
+  Servo angle: 35.7°
+→ TARGET: X=984 mm, Y=1597 mm, Distance=1875 mm
+  Servo angle: 30.9°
+→ TARGET: X=984 mm, Y=1595 mm, Distance=1874 mm
+  Servo angle: 30.9°
+→ TARGET: X=749 mm, Y=1315 mm, Distance=1513 mm
+  Servo angle: 28.8°
+→ TARGET: X=489 mm, Y=1163 mm, Distance=1261 mm
+  Servo angle: 22.0°
+→ TARGET: X=487 mm, Y=1160 mm, Distance=1258 mm
+  Servo angle: 21.9°
+→ TARGET: X=488 mm, Y=652 mm, Distance=814 mm
+  Servo angle: 34.8°
+→ TARGET: X=494 mm, Y=645 mm, Distance=812 mm
+  Servo angle: 35.4°
+→ TARGET: X=804 mm, Y=663 mm, Distance=1042 mm
+  Servo angle: 48.4°
+→ TARGET: X=745 mm, Y=616 mm, Distance=966 mm
+  Servo angle: 48.2°
+→ TARGET: X=421 mm, Y=925 mm, Distance=1016 mm
+  Servo angle: 23.4°
+→ TARGET: X=369 mm, Y=950 mm, Distance=1019 mm
+  Servo angle: 20.3°
+→ TARGET: X=-747 mm, Y=1578 mm, Distance=1745 mm
+  Servo angle: -24.6°
+→ TARGET: X=-752 mm, Y=1575 mm, Distance=1745 mm
+  Servo angle: -24.8°
+→ TARGET: X=-1218 mm, Y=1868 mm, Distance=2230 mm
+  Servo angle: -32.4°
+→ TARGET: X=-1219 mm, Y=1877 mm, Distance=2238 mm
+  Servo angle: -32.3°
+→ TARGET: X=-1069 mm, Y=2070 mm, Distance=2329 mm
+  Servo angle: -26.8°
+→ TARGET: X=-1099 mm, Y=2048 mm, Distance=2324 mm
+  Servo angle: -27.6°
+→ TARGET: X=-964 mm, Y=2057 mm, Distance=2271 mm
+  Servo angle: -24.6°
+→ TARGET: X=-964 mm, Y=2059 mm, Distance=2273 mm
+  Servo angle: -24.6°
+→ TARGET: X=-762 mm, Y=2212 mm, Distance=2339 mm
+  Servo angle: -18.6°
+→ TARGET: X=-718 mm, Y=2221 mm, Distance=2334 mm
+  Servo angle: -17.5°
+→ TARGET: X=228 mm, Y=2359 mm, Distance=2369 mm
+  Servo angle: 5.4°
+→ TARGET: X=715 mm, Y=2501 mm, Distance=2601 mm
+  Servo angle: 15.7°
+→ TARGET: X=715 mm, Y=2493 mm, Distance=2593 mm
+  Servo angle: 15.7°
+→ TARGET: X=826 mm, Y=2302 mm, Distance=2445 mm
+  Servo angle: 19.4°
+→ TARGET: X=826 mm, Y=2304 mm, Distance=2447 mm
+  Servo angle: 19.3°
+→ TARGET: X=771 mm, Y=2291 mm, Distance=2417 mm
+  Servo angle: 18.2°
+→ TARGET: X=751 mm, Y=2283 mm, Distance=2403 mm
+  Servo angle: 17.8°
+→ TARGET: X=753 mm, Y=2256 mm, Distance=2378 mm
+  Servo angle: 18.1°
+→ TARGET: X=763 mm, Y=2242 mm, Distance=2368 mm
+  Servo angle: 18.4°
+→ TARGET: X=756 mm, Y=2229 mm, Distance=2353 mm
+  Servo angle: 18.4°
+→ TARGET: X=730 mm, Y=2219 mm, Distance=2335 mm
+  Servo angle: 17.8°
+→ TARGET: X=634 mm, Y=2202 mm, Distance=2291 mm
+  Servo angle: 15.7°
+→ TARGET: X=586 mm, Y=2196 mm, Distance=2272 mm
+  Servo angle: 14.6°
+→ TARGET: X=401 mm, Y=1638 mm, Distance=1686 mm
+  Servo angle: 13.4°
+→ TARGET: X=408 mm, Y=1615 mm, Distance=1665 mm
+  Servo angle: 13.8°
+→ TARGET: X=307 mm, Y=1034 mm, Distance=1078 mm
+  Servo angle: 15.8°
+→ TARGET: X=311 mm, Y=1030 mm, Distance=1075 mm
+  Servo angle: 16.1°
+→ TARGET: X=577 mm, Y=567 mm, Distance=808 mm
+  Servo angle: 43.1°
+→ TARGET: X=562 mm, Y=580 mm, Distance=807 mm
+  Servo angle: 41.7°
+→ TARGET: X=579 mm, Y=578 mm, Distance=818 mm
+  Servo angle: 42.7°
+→ TARGET: X=576 mm, Y=591 mm, Distance=825 mm
+  Servo angle: 41.9°
+→ TARGET: X=579 mm, Y=590 mm, Distance=826 mm
+  Servo angle: 42.1°
+→ TARGET: X=577 mm, Y=585 mm, Distance=821 mm
+  Servo angle: 42.3°
+→ TARGET: X=576 mm, Y=580 mm, Distance=817 mm
+  Servo angle: 42.4°
+→ TARGET: X=576 mm, Y=581 mm, Distance=818 mm
+  Servo angle: 42.4°
+→ TARGET: X=575 mm, Y=582 mm, Distance=818 mm
+  Servo angle: 42.3°
+→ TARGET: X=576 mm, Y=582 mm, Distance=818 mm
+  Servo angle: 42.3°
+→ TARGET: X=579 mm, Y=580 mm, Distance=819 mm
+  Servo angle: 42.6°
+→ TARGET: X=579 mm, Y=583 mm, Distance=821 mm
+  Servo angle: 42.4°
+→ TARGET: X=576 mm, Y=588 mm, Distance=823 mm
+  Servo angle: 42.1°
+→ TARGET: X=566 mm, Y=600 mm, Distance=824 mm
+  Servo angle: 41.0°
+→ TARGET: X=542 mm, Y=614 mm, Distance=818 mm
+  Servo angle: 39.2°
+→ TARGET: X=528 mm, Y=621 mm, Distance=815 mm
+  Servo angle: 38.2°
+→ TARGET: X=31 mm, Y=979 mm, Distance=979 mm
+  Servo angle: 1.7°
+→ TARGET: X=27 mm, Y=982 mm, Distance=982 mm
+  Servo angle: 1.5°
+→ TARGET: X=-950 mm, Y=1732 mm, Distance=1975 mm
+  Servo angle: -28.1°
+→ TARGET: X=-970 mm, Y=1759 mm, Distance=2008 mm
+  Servo angle: -28.2°
+→ TARGET: X=-1474 mm, Y=2002 mm, Distance=2486 mm
+  Servo angle: -35.7°
+→ TARGET: X=-1478 mm, Y=2005 mm, Distance=2490 mm
+  Servo angle: -35.7°
+→ TARGET: X=-1477 mm, Y=2093 mm, Distance=2561 mm
+  Servo angle: -34.6°
+→ TARGET: X=-1472 mm, Y=2092 mm, Distance=2557 mm
+  Servo angle: -34.5°
+→ TARGET: X=-1463 mm, Y=2094 mm, Distance=2554 mm
+  Servo angle: -34.3°
+→ TARGET: X=-1428 mm, Y=2099 mm, Distance=2538 mm
+  Servo angle: -33.6°
+→ TARGET: X=-1381 mm, Y=2096 mm, Distance=2510 mm
+  Servo angle: -32.8°
+→ TARGET: X=-1307 mm, Y=2086 mm, Distance=2461 mm
+  Servo angle: -31.5°
+→ TARGET: X=-1269 mm, Y=2074 mm, Distance=2431 mm
+  Servo angle: -30.9°
+→ TARGET: X=-435 mm, Y=2200 mm, Distance=2242 mm
+  Servo angle: -10.9°
+→ TARGET: X=-406 mm, Y=2201 mm, Distance=2238 mm
+  Servo angle: -10.2°
+→ TARGET: X=481 mm, Y=2322 mm, Distance=2371 mm
+  Servo angle: 11.5°
+→ TARGET: X=487 mm, Y=2331 mm, Distance=2381 mm
+  Servo angle: 11.6°
+→ TARGET: X=635 mm, Y=2498 mm, Distance=2577 mm
+  Servo angle: 14.0°
+→ TARGET: X=633 mm, Y=2496 mm, Distance=2575 mm
+  Servo angle: 14.0°
+→ TARGET: X=576 mm, Y=2251 mm, Distance=2323 mm
+  Servo angle: 14.1°
+→ TARGET: X=575 mm, Y=2259 mm, Distance=2331 mm
+  Servo angle: 14.0°
+→ TARGET: X=563 mm, Y=2261 mm, Distance=2330 mm
+  Servo angle: 13.7°
+→ TARGET: X=561 mm, Y=2259 mm, Distance=2327 mm
+  Servo angle: 13.7°
+→ TARGET: X=562 mm, Y=2261 mm, Distance=2329 mm
+  Servo angle: 13.7°
+→ TARGET: X=566 mm, Y=2265 mm, Distance=2334 mm
+  Servo angle: 13.7°
+→ TARGET: X=568 mm, Y=2269 mm, Distance=2339 mm
+  Servo angle: 13.8°
+→ TARGET: X=574 mm, Y=2276 mm, Distance=2347 mm
+  Servo angle: 13.9°
+→ TARGET: X=590 mm, Y=2291 mm, Distance=2365 mm
+  Servo angle: 14.1°
+→ TARGET: X=623 mm, Y=2326 mm, Distance=2407 mm
+  Servo angle: 14.7°
+→ TARGET: X=651 mm, Y=2359 mm, Distance=2447 mm
+  Servo angle: 15.1°
+→ TARGET: X=682 mm, Y=2381 mm, Distance=2476 mm
+  Servo angle: 15.7°
+→ TARGET: X=701 mm, Y=2403 mm, Distance=2503 mm
+  Servo angle: 15.9°
+→ TARGET: X=708 mm, Y=2428 mm, Distance=2529 mm
+  Servo angle: 15.9°
+→ TARGET: X=691 mm, Y=2450 mm, Distance=2545 mm
+  Servo angle: 15.5°
+→ TARGET: X=690 mm, Y=2453 mm, Distance=2548 mm
+  Servo angle: 15.4°
+→ TARGET: X=690 mm, Y=2458 mm, Distance=2553 mm
+  Servo angle: 15.4°
+→ TARGET: X=688 mm, Y=2465 mm, Distance=2559 mm
+  Servo angle: 15.3°
+→ TARGET: X=684 mm, Y=2471 mm, Distance=2563 mm
+  Servo angle: 15.2°
+→ TARGET: X=675 mm, Y=2478 mm, Distance=2568 mm
+  Servo angle: 14.9°
+→ TARGET: X=626 mm, Y=2505 mm, Distance=2582 mm
+  Servo angle: 13.8°
+→ TARGET: X=565 mm, Y=2528 mm, Distance=2590 mm
+  Servo angle: 12.4°
+→ TARGET: X=545 mm, Y=2533 mm, Distance=2590 mm
+  Servo angle: 11.9°
+→ TARGET: X=368 mm, Y=2503 mm, Distance=2529 mm
+  Servo angle: 8.2°
+→ TARGET: X=379 mm, Y=2497 mm, Distance=2525 mm
+  Servo angle: 8.5°
+→ TARGET: X=376 mm, Y=2500 mm, Distance=2528 mm
+  Servo angle: 8.4°
+→ TARGET: X=366 mm, Y=2484 mm, Distance=2510 mm
+  Servo angle: 8.2°
+→ TARGET: X=354 mm, Y=2485 mm, Distance=2510 mm
+  Servo angle: 7.9°
+→ TARGET: X=353 mm, Y=2480 mm, Distance=2504 mm
+  Servo angle: 7.9°
+→ TARGET: X=354 mm, Y=2473 mm, Distance=2498 mm
+  Servo angle: 8.0°
+→ TARGET: X=347 mm, Y=2457 mm, Distance=2481 mm
+  Servo angle: 7.9°
+→ TARGET: X=312 mm, Y=2429 mm, Distance=2448 mm
+  Servo angle: 7.2°
+→ TARGET: X=301 mm, Y=2387 mm, Distance=2405 mm
+  Servo angle: 7.0°
+→ TARGET: X=304 mm, Y=2333 mm, Distance=2352 mm
+  Servo angle: 7.3°
+→ TARGET: X=319 mm, Y=2225 mm, Distance=2247 mm
+  Servo angle: 8.0°
+→ TARGET: X=309 mm, Y=2150 mm, Distance=2172 mm
+  Servo angle: 8.0°
+→ TARGET: X=294 mm, Y=2039 mm, Distance=2060 mm
+  Servo angle: 8.0°
+→ TARGET: X=291 mm, Y=1975 mm, Distance=1996 mm
+  Servo angle: 8.2°
+→ TARGET: X=304 mm, Y=1907 mm, Distance=1931 mm
+  Servo angle: 8.8°
+→ TARGET: X=299 mm, Y=1868 mm, Distance=1891 mm
+  Servo angle: 8.9°
+→ TARGET: X=316 mm, Y=1861 mm, Distance=1887 mm
+  Servo angle: 9.4°
+→ TARGET: X=313 mm, Y=1859 mm, Distance=1885 mm
+  Servo angle: 9.3°
+→ TARGET: X=303 mm, Y=1861 mm, Distance=1885 mm
+  Servo angle: 9.0°
+→ TARGET: X=287 mm, Y=1838 mm, Distance=1860 mm
+  Servo angle: 8.6°
+→ TARGET: X=260 mm, Y=1809 mm, Distance=1827 mm
+  Servo angle: 8.0°
+→ TARGET: X=224 mm, Y=1785 mm, Distance=1799 mm
+  Servo angle: 7.0°
+→ TARGET: X=256 mm, Y=1750 mm, Distance=1768 mm
+  Servo angle: 8.1°
+→ TARGET: X=284 mm, Y=1702 mm, Distance=1725 mm
+  Servo angle: 9.2°
+→ TARGET: X=299 mm, Y=1604 mm, Distance=1631 mm
+  Servo angle: 10.2°
+→ TARGET: X=259 mm, Y=1556 mm, Distance=1577 mm
+  Servo angle: 9.2°
+→ TARGET: X=222 mm, Y=1515 mm, Distance=1531 mm
+  Servo angle: 8.1°
+→ TARGET: X=206 mm, Y=1500 mm, Distance=1514 mm
+  Servo angle: 7.6°
+→ TARGET: X=175 mm, Y=1085 mm, Distance=1099 mm
+  Servo angle: 8.8°
+→ TARGET: X=170 mm, Y=1079 mm, Distance=1092 mm
+  Servo angle: 8.6°
+→ TARGET: X=167 mm, Y=1073 mm, Distance=1085 mm
+  Servo angle: 8.5°
+→ TARGET: X=160 mm, Y=1066 mm, Distance=1077 mm
+  Servo angle: 8.2°
+→ TARGET: X=144 mm, Y=1043 mm, Distance=1052 mm
+  Servo angle: 7.5°
+→ TARGET: X=114 mm, Y=1001 mm, Distance=1007 mm
+  Servo angle: 6.2°
+→ TARGET: X=102 mm, Y=979 mm, Distance=984 mm
+  Servo angle: 5.7°
+→ TARGET: X=30 mm, Y=432 mm, Distance=433 mm
+  Servo angle: 3.6°
+→ TARGET: X=38 mm, Y=430 mm, Distance=431 mm
+  Servo angle: 4.5°
+→ TARGET: X=372 mm, Y=354 mm, Distance=513 mm
+  Servo angle: 42.6°
+→ TARGET: X=357 mm, Y=373 mm, Distance=516 mm
+  Servo angle: 40.2°
+→ TARGET: X=215 mm, Y=656 mm, Distance=690 mm
+  Servo angle: 16.9°
+→ TARGET: X=236 mm, Y=670 mm, Distance=710 mm
+  Servo angle: 18.1°
+→ TARGET: X=657 mm, Y=1261 mm, Distance=1421 mm
+  Servo angle: 26.6°
+→ TARGET: X=630 mm, Y=1235 mm, Distance=1386 mm
+  Servo angle: 26.1°
+→ TARGET: X=513 mm, Y=1033 mm, Distance=1153 mm
+  Servo angle: 25.3°
+→ TARGET: X=480 mm, Y=1043 mm, Distance=1148 mm
+  Servo angle: 23.7°
+→ TARGET: X=507 mm, Y=1002 mm, Distance=1122 mm
+  Servo angle: 25.7°
+→ TARGET: X=589 mm, Y=959 mm, Distance=1125 mm
+  Servo angle: 30.3°
+→ TARGET: X=608 mm, Y=897 mm, Distance=1083 mm
+  Servo angle: 32.7°
+→ TARGET: X=640 mm, Y=990 mm, Distance=1178 mm
+  Servo angle: 31.6°
+→ TARGET: X=590 mm, Y=934 mm, Distance=1104 mm
+  Servo angle: 30.9°
+→ TARGET: X=560 mm, Y=888 mm, Distance=1049 mm
+  Servo angle: 30.8°
+→ TARGET: X=592 mm, Y=849 mm, Distance=1035 mm
+  Servo angle: 33.4°
+→ TARGET: X=624 mm, Y=811 mm, Distance=1023 mm
+  Servo angle: 35.9°
+→ TARGET: X=567 mm, Y=1196 mm, Distance=1323 mm
+  Servo angle: 24.5°
+→ TARGET: X=574 mm, Y=1185 mm, Distance=1316 mm
+  Servo angle: 24.9°
+→ TARGET: X=609 mm, Y=1121 mm, Distance=1275 mm
+  Servo angle: 27.5°
+→ TARGET: X=622 mm, Y=1152 mm, Distance=1309 mm
+  Servo angle: 27.4°
+→ TARGET: X=835 mm, Y=1237 mm, Distance=1492 mm
+  Servo angle: 33.0°
+→ TARGET: X=833 mm, Y=1240 mm, Distance=1493 mm
+  Servo angle: 32.9°
+→ TARGET: X=658 mm, Y=1224 mm, Distance=1389 mm
+  Servo angle: 27.3°
+→ TARGET: X=670 mm, Y=1260 mm, Distance=1427 mm
+  Servo angle: 27.1°
+→ TARGET: X=762 mm, Y=1364 mm, Distance=1562 mm
+  Servo angle: 28.3°
+→ TARGET: X=761 mm, Y=1360 mm, Distance=1558 mm
+  Servo angle: 28.4°
+→ TARGET: X=761 mm, Y=1360 mm, Distance=1558 mm
+  Servo angle: 28.4°
+→ TARGET: X=761 mm, Y=1364 mm, Distance=1561 mm
+  Servo angle: 28.3°
+→ TARGET: X=762 mm, Y=1368 mm, Distance=1565 mm
+  Servo angle: 28.3°
+→ TARGET: X=762 mm, Y=1363 mm, Distance=1561 mm
+  Servo angle: 28.3°
+→ TARGET: X=760 mm, Y=1357 mm, Distance=1555 mm
+  Servo angle: 28.4°
+→ TARGET: X=759 mm, Y=1335 mm, Distance=1535 mm
+  Servo angle: 28.7°
+→ TARGET: X=766 mm, Y=1327 mm, Distance=1532 mm
+  Servo angle: 29.1°
+→ TARGET: X=777 mm, Y=1327 mm, Distance=1537 mm
+  Servo angle: 29.4°
+→ TARGET: X=788 mm, Y=1321 mm, Distance=1538 mm
+  Servo angle: 29.9°
+→ TARGET: X=796 mm, Y=1318 mm, Distance=1539 mm
+  Servo angle: 30.2°
+→ TARGET: X=803 mm, Y=1310 mm, Distance=1536 mm
+  Servo angle: 30.6°
+→ TARGET: X=809 mm, Y=1298 mm, Distance=1529 mm
+  Servo angle: 31.0°
+→ TARGET: X=793 mm, Y=1273 mm, Distance=1499 mm
+  Servo angle: 30.9°
+→ TARGET: X=747 mm, Y=1198 mm, Distance=1411 mm
+  Servo angle: 30.9°
+→ TARGET: X=702 mm, Y=1134 mm, Distance=1333 mm
+  Servo angle: 30.7°
+→ TARGET: X=693 mm, Y=1110 mm, Distance=1308 mm
+  Servo angle: 30.9°
+→ TARGET: X=700 mm, Y=1127 mm, Distance=1326 mm
+  Servo angle: 30.7°
+→ TARGET: X=698 mm, Y=1154 mm, Distance=1348 mm
+  Servo angle: 30.1°
+→ TARGET: X=683 mm, Y=1230 mm, Distance=1406 mm
+  Servo angle: 28.1°
+→ TARGET: X=662 mm, Y=1303 mm, Distance=1461 mm
+  Servo angle: 26.1°
+→ TARGET: X=885 mm, Y=1367 mm, Distance=1628 mm
+  Servo angle: 32.0°
+→ TARGET: X=854 mm, Y=1370 mm, Distance=1614 mm
+  Servo angle: 31.0°
+→ TARGET: X=674 mm, Y=1349 mm, Distance=1508 mm
+  Servo angle: 25.7°
+→ TARGET: X=664 mm, Y=1368 mm, Distance=1520 mm
+  Servo angle: 25.1°
+→ TARGET: X=774 mm, Y=1372 mm, Distance=1575 mm
+  Servo angle: 28.6°
+→ TARGET: X=741 mm, Y=1394 mm, Distance=1578 mm
+  Servo angle: 27.2°
+→ TARGET: X=723 mm, Y=1433 mm, Distance=1605 mm
+  Servo angle: 26.0°
+→ TARGET: X=767 mm, Y=1417 mm, Distance=1611 mm
+  Servo angle: 27.6°
+→ TARGET: X=745 mm, Y=1421 mm, Distance=1604 mm
+  Servo angle: 26.9°
+→ TARGET: X=730 mm, Y=1423 mm, Distance=1599 mm
+  Servo angle: 26.4°
+→ TARGET: X=704 mm, Y=1430 mm, Distance=1593 mm
+  Servo angle: 25.4°
+→ TARGET: X=608 mm, Y=1474 mm, Distance=1594 mm
+  Servo angle: 21.7°
+→ TARGET: X=544 mm, Y=1503 mm, Distance=1598 mm
+  Servo angle: 19.3°
+→ TARGET: X=824 mm, Y=1377 mm, Distance=1604 mm
+  Servo angle: 30.0°
+→ TARGET: X=787 mm, Y=1407 mm, Distance=1612 mm
+  Servo angle: 28.4°
+→ TARGET: X=796 mm, Y=1382 mm, Distance=1594 mm
+  Servo angle: 29.1°
+→ TARGET: X=741 mm, Y=1417 mm, Distance=1599 mm
+  Servo angle: 26.8°
+→ TARGET: X=552 mm, Y=1385 mm, Distance=1490 mm
+  Servo angle: 21.0°
+→ TARGET: X=547 mm, Y=1402 mm, Distance=1504 mm
+  Servo angle: 20.6°
+→ TARGET: X=632 mm, Y=1579 mm, Distance=1700 mm
+  Servo angle: 21.2°
+→ TARGET: X=640 mm, Y=1560 mm, Distance=1686 mm
+  Servo angle: 21.7°
+→ TARGET: X=665 mm, Y=1532 mm, Distance=1670 mm
+  Servo angle: 22.8°
+→ TARGET: X=747 mm, Y=1471 mm, Distance=1649 mm
+  Servo angle: 26.2°
+→ TARGET: X=849 mm, Y=1400 mm, Distance=1637 mm
+  Servo angle: 30.3°
+→ TARGET: X=962 mm, Y=1360 mm, Distance=1665 mm
+  Servo angle: 34.3°
+→ TARGET: X=965 mm, Y=1345 mm, Distance=1655 mm
+  Servo angle: 34.7°
+→ TARGET: X=888 mm, Y=1347 mm, Distance=1613 mm
+  Servo angle: 32.4°
+→ TARGET: X=412 mm, Y=1551 mm, Distance=1604 mm
+  Servo angle: 14.4°
+→ TARGET: X=419 mm, Y=1551 mm, Distance=1606 mm
+  Servo angle: 14.7°
+→ TARGET: X=612 mm, Y=1533 mm, Distance=1650 mm
+  Servo angle: 21.1°
+→ TARGET: X=614 mm, Y=1529 mm, Distance=1647 mm
+  Servo angle: 21.2°
+→ TARGET: X=587 mm, Y=1477 mm, Distance=1589 mm
+  Servo angle: 21.0°
+→ TARGET: X=590 mm, Y=1472 mm, Distance=1585 mm
+  Servo angle: 21.2°
+→ TARGET: X=591 mm, Y=1470 mm, Distance=1584 mm
+  Servo angle: 21.2°
+→ TARGET: X=604 mm, Y=1466 mm, Distance=1585 mm
+  Servo angle: 21.7°
+→ TARGET: X=639 mm, Y=1446 mm, Distance=1580 mm
+  Servo angle: 23.1°
+→ TARGET: X=691 mm, Y=1426 mm, Distance=1584 mm
+  Servo angle: 25.1°
+→ TARGET: X=703 mm, Y=1416 mm, Distance=1580 mm
+  Servo angle: 25.6°
+→ TARGET: X=451 mm, Y=1650 mm, Distance=1710 mm
+  Servo angle: 14.9°
+→ TARGET: X=443 mm, Y=1626 mm, Distance=1685 mm
+  Servo angle: 14.8°
+→ TARGET: X=319 mm, Y=776 mm, Distance=839 mm
+  Servo angle: 21.1°
+→ TARGET: X=364 mm, Y=804 mm, Distance=882 mm
+  Servo angle: 23.1°
+→ TARGET: X=669 mm, Y=1378 mm, Distance=1531 mm
+  Servo angle: 25.1°
+→ TARGET: X=694 mm, Y=1341 mm, Distance=1509 mm
+  Servo angle: 26.5°
+→ TARGET: X=629 mm, Y=1108 mm, Distance=1274 mm
+  Servo angle: 28.5°
+→ TARGET: X=633 mm, Y=1164 mm, Distance=1324 mm
+  Servo angle: 27.5°
+→ TARGET: X=622 mm, Y=780 mm, Distance=997 mm
+  Servo angle: 36.8°
+→ TARGET: X=639 mm, Y=814 mm, Distance=1034 mm
+  Servo angle: 36.5°
+→ TARGET: X=788 mm, Y=1400 mm, Distance=1606 mm
+  Servo angle: 28.5°
+→ TARGET: X=787 mm, Y=1389 mm, Distance=1596 mm
+  Servo angle: 28.7°
+→ TARGET: X=668 mm, Y=1153 mm, Distance=1332 mm
+  Servo angle: 29.0°
+→ TARGET: X=664 mm, Y=1143 mm, Distance=1321 mm
+  Servo angle: 29.1°
+→ TARGET: X=646 mm, Y=1096 mm, Distance=1272 mm
+  Servo angle: 29.4°
+→ TARGET: X=616 mm, Y=1079 mm, Distance=1242 mm
+  Servo angle: 28.6°
+→ TARGET: X=580 mm, Y=1065 mm, Distance=1212 mm
+  Servo angle: 27.5°
+→ TARGET: X=562 mm, Y=1059 mm, Distance=1198 mm
+  Servo angle: 26.9°
+→ TARGET: X=454 mm, Y=832 mm, Distance=947 mm
+  Servo angle: 27.2°
+→ TARGET: X=486 mm, Y=797 mm, Distance=933 mm
+  Servo angle: 29.8°
+→ TARGET: X=502 mm, Y=770 mm, Distance=919 mm
+  Servo angle: 31.5°
+→ TARGET: X=498 mm, Y=495 mm, Distance=702 mm
+  Servo angle: 42.4°
+→ TARGET: X=496 mm, Y=494 mm, Distance=700 mm
+  Servo angle: 42.4°
+→ TARGET: X=266 mm, Y=337 mm, Distance=429 mm
+  Servo angle: 34.5°
+→ TARGET: X=262 mm, Y=337 mm, Distance=426 mm
+  Servo angle: 34.1°
+→ TARGET: X=59 mm, Y=360 mm, Distance=364 mm
+  Servo angle: 8.2°
+→ TARGET: X=62 mm, Y=359 mm, Distance=364 mm
+  Servo angle: 8.6°
+→ TARGET: X=159 mm, Y=293 mm, Distance=333 mm
+  Servo angle: 24.9°
+→ TARGET: X=159 mm, Y=292 mm, Distance=332 mm
+  Servo angle: 24.9°
+→ TARGET: X=192 mm, Y=261 mm, Distance=324 mm
+  Servo angle: 31.7°
+→ TARGET: X=193 mm, Y=261 mm, Distance=324 mm
+  Servo angle: 31.8°
+→ TARGET: X=182 mm, Y=253 mm, Distance=311 mm
+  Servo angle: 31.0°
+→ TARGET: X=204 mm, Y=265 mm, Distance=334 mm
+  Servo angle: 32.9°
+→ TARGET: X=213 mm, Y=271 mm, Distance=344 mm
+  Servo angle: 33.6°
+→ TARGET: X=332 mm, Y=248 mm, Distance=414 mm
+  Servo angle: 48.1°
+→ TARGET: X=206 mm, Y=210 mm, Distance=294 mm
+  Servo angle: 38.4°
+→ TARGET: X=211 mm, Y=211 mm, Distance=298 mm
+  Servo angle: 39.0°
+→ TARGET: X=281 mm, Y=296 mm, Distance=408 mm
+  Servo angle: 39.1°
+→ TARGET: X=283 mm, Y=294 mm, Distance=408 mm
+  Servo angle: 39.4°
+→ TARGET: X=285 mm, Y=293 mm, Distance=408 mm
+  Servo angle: 39.7°
+→ TARGET: X=286 mm, Y=290 mm, Distance=407 mm
+  Servo angle: 40.1°
+→ TARGET: X=286 mm, Y=287 mm, Distance=405 mm
+  Servo angle: 40.3°
+→ TARGET: X=284 mm, Y=284 mm, Distance=401 mm
+  Servo angle: 40.4°
+→ TARGET: X=282 mm, Y=283 mm, Distance=399 mm
+  Servo angle: 40.3°
+→ TARGET: X=281 mm, Y=281 mm, Distance=397 mm
+  Servo angle: 40.3°
+→ TARGET: X=281 mm, Y=278 mm, Distance=395 mm
+  Servo angle: 40.6°
+→ TARGET: X=281 mm, Y=272 mm, Distance=391 mm
+  Servo angle: 41.1°
+→ TARGET: X=281 mm, Y=269 mm, Distance=389 mm
+  Servo angle: 41.4°
+→ TARGET: X=280 mm, Y=266 mm, Distance=386 mm
+  Servo angle: 41.5°
+→ TARGET: X=277 mm, Y=261 mm, Distance=380 mm
+  Servo angle: 41.7°
+→ TARGET: X=278 mm, Y=259 mm, Distance=379 mm
+  Servo angle: 42.0°
+→ TARGET: X=282 mm, Y=259 mm, Distance=382 mm
+  Servo angle: 42.4°
+→ TARGET: X=287 mm, Y=261 mm, Distance=387 mm
+  Servo angle: 42.7°
+→ TARGET: X=288 mm, Y=262 mm, Distance=389 mm
+  Servo angle: 42.7°
+→ TARGET: X=290 mm, Y=263 mm, Distance=391 mm
+  Servo angle: 42.8°
+→ TARGET: X=292 mm, Y=265 mm, Distance=394 mm
+  Servo angle: 42.8°
+→ TARGET: X=294 mm, Y=268 mm, Distance=397 mm
+  Servo angle: 42.8°
+→ TARGET: X=295 mm, Y=271 mm, Distance=400 mm
+  Servo angle: 42.6°
+→ TARGET: X=291 mm, Y=274 mm, Distance=399 mm
+  Servo angle: 41.9°
+→ TARGET: X=285 mm, Y=276 mm, Distance=396 mm
+  Servo angle: 41.2°
+→ TARGET: X=277 mm, Y=279 mm, Distance=393 mm
+  Servo angle: 40.1°
+→ TARGET: X=275 mm, Y=279 mm, Distance=391 mm
+  Servo angle: 39.9°
+→ TARGET: X=282 mm, Y=242 mm, Distance=371 mm
+  Servo angle: 44.0°
+→ TARGET: X=281 mm, Y=241 mm, Distance=370 mm
+  Servo angle: 44.0°
+→ TARGET: X=266 mm, Y=215 mm, Distance=342 mm
+  Servo angle: 45.1°
+→ TARGET: X=266 mm, Y=216 mm, Distance=342 mm
+  Servo angle: 45.0°
+→ TARGET: X=360 mm, Y=296 mm, Distance=466 mm
+  Servo angle: 46.1°
+→ TARGET: X=351 mm, Y=294 mm, Distance=457 mm
+  Servo angle: 45.6°
+→ TARGET: X=218 mm, Y=220 mm, Distance=309 mm
+  Servo angle: 38.9°
+→ TARGET: X=219 mm, Y=222 mm, Distance=311 mm
+  Servo angle: 38.8°
+→ TARGET: X=303 mm, Y=291 mm, Distance=420 mm
+  Servo angle: 41.6°
+→ TARGET: X=301 mm, Y=290 mm, Distance=417 mm
+  Servo angle: 41.5°
+→ TARGET: X=282 mm, Y=202 mm, Distance=346 mm
+  Servo angle: 48.2°
+→ TARGET: X=283 mm, Y=205 mm, Distance=349 mm
+  Servo angle: 48.0°
+→ TARGET: X=340 mm, Y=326 mm, Distance=471 mm
+  Servo angle: 42.1°
+→ TARGET: X=335 mm, Y=305 mm, Distance=453 mm
+  Servo angle: 43.3°
+→ TARGET: X=309 mm, Y=268 mm, Distance=409 mm
+  Servo angle: 44.2°
+→ TARGET: X=310 mm, Y=267 mm, Distance=409 mm
+  Servo angle: 44.4°
+→ TARGET: X=310 mm, Y=265 mm, Distance=407 mm
+  Servo angle: 44.5°
+→ TARGET: X=310 mm, Y=261 mm, Distance=405 mm
+  Servo angle: 44.9°
+→ TARGET: X=307 mm, Y=257 mm, Distance=400 mm
+  Servo angle: 45.0°
+→ TARGET: X=141 mm, Y=227 mm, Distance=267 mm
+  Servo angle: 27.0°
+→ TARGET: X=421 mm, Y=377 mm, Distance=565 mm
+  Servo angle: 44.6°
+→ TARGET: X=407 mm, Y=364 mm, Distance=546 mm
+  Servo angle: 44.5°
+→ TARGET: X=333 mm, Y=284 mm, Distance=437 mm
+  Servo angle: 44.9°
+→ TARGET: X=333 mm, Y=282 mm, Distance=436 mm
+  Servo angle: 45.1°
+→ TARGET: X=334 mm, Y=279 mm, Distance=435 mm
+  Servo angle: 45.4°
+→ TARGET: X=336 mm, Y=276 mm, Distance=434 mm
+  Servo angle: 45.9°
+→ TARGET: X=336 mm, Y=273 mm, Distance=432 mm
+  Servo angle: 46.1°
+→ TARGET: X=338 mm, Y=270 mm, Distance=432 mm
+  Servo angle: 46.6°
+→ TARGET: X=337 mm, Y=270 mm, Distance=431 mm
+  Servo angle: 46.5°
+→ TARGET: X=335 mm, Y=269 mm, Distance=429 mm
+  Servo angle: 46.4°
+→ TARGET: X=331 mm, Y=264 mm, Distance=423 mm
+  Servo angle: 46.5°
+→ TARGET: X=328 mm, Y=256 mm, Distance=416 mm
+  Servo angle: 47.0°
+→ TARGET: X=322 mm, Y=249 mm, Distance=407 mm
+  Servo angle: 47.1°
+→ TARGET: X=317 mm, Y=249 mm, Distance=403 mm
+  Servo angle: 46.7°
+→ TARGET: X=312 mm, Y=252 mm, Distance=401 mm
+  Servo angle: 45.9°
+→ TARGET: X=305 mm, Y=253 mm, Distance=396 mm
+  Servo angle: 45.2°
+→ TARGET: X=299 mm, Y=253 mm, Distance=391 mm
+  Servo angle: 44.6°
+→ TARGET: X=295 mm, Y=252 mm, Distance=387 mm
+  Servo angle: 44.3°
+→ TARGET: X=282 mm, Y=244 mm, Distance=372 mm
+  Servo angle: 43.8°
+→ TARGET: X=269 mm, Y=237 mm, Distance=358 mm
+  Servo angle: 43.1°
+→ TARGET: X=259 mm, Y=237 mm, Distance=351 mm
+  Servo angle: 42.1°
+→ TARGET: X=255 mm, Y=244 mm, Distance=352 mm
+  Servo angle: 40.9°
+→ TARGET: X=255 mm, Y=247 mm, Distance=355 mm
+  Servo angle: 40.6°
+→ TARGET: X=245 mm, Y=302 mm, Distance=388 mm
+  Servo angle: 34.8°
+→ TARGET: X=245 mm, Y=298 mm, Distance=385 mm
+  Servo angle: 35.1°
+→ TARGET: X=332 mm, Y=230 mm, Distance=403 mm
+  Servo angle: 49.9°
+→ TARGET: X=323 mm, Y=220 mm, Distance=390 mm
+  Servo angle: 50.1°
+→ TARGET: X=300 mm, Y=233 mm, Distance=379 mm
+  Servo angle: 46.7°
+→ TARGET: X=299 mm, Y=236 mm, Distance=380 mm
+  Servo angle: 46.3°
+→ TARGET: X=352 mm, Y=422 mm, Distance=549 mm
+  Servo angle: 36.7°
+→ TARGET: X=356 mm, Y=427 mm, Distance=555 mm
+  Servo angle: 36.7°
+→ TARGET: X=353 mm, Y=468 mm, Distance=586 mm
+  Servo angle: 34.3°
+→ TARGET: X=311 mm, Y=480 mm, Distance=571 mm
+  Servo angle: 30.4°
+→ TARGET: X=-33 mm, Y=586 mm, Distance=586 mm
+  Servo angle: -3.0°
+→ TARGET: X=-9 mm, Y=590 mm, Distance=590 mm
+  Servo angle: -0.8°
+→ TARGET: X=-258 mm, Y=439 mm, Distance=509 mm
+  Servo angle: -27.8°
+→ TARGET: X=-245 mm, Y=456 mm, Distance=517 mm
+  Servo angle: -25.8°
+→ TARGET: X=-248 mm, Y=479 mm, Distance=539 mm
+  Servo angle: -25.1°
+→ TARGET: X=-248 mm, Y=475 mm, Distance=535 mm
+  Servo angle: -25.3°
+→ TARGET: X=-248 mm, Y=477 mm, Distance=537 mm
+  Servo angle: -25.2°
+→ TARGET: X=-246 mm, Y=480 mm, Distance=539 mm
+  Servo angle: -24.9°
+→ TARGET: X=-241 mm, Y=483 mm, Distance=539 mm
+  Servo angle: -24.3°
+→ TARGET: X=-240 mm, Y=478 mm, Distance=534 mm
+  Servo angle: -24.4°
+→ TARGET: X=-241 mm, Y=475 mm, Distance=532 mm
+  Servo angle: -24.7°
+→ TARGET: X=-237 mm, Y=475 mm, Distance=530 mm
+  Servo angle: -24.3°
+→ TARGET: X=-234 mm, Y=474 mm, Distance=528 mm
+  Servo angle: -24.1°
+→ TARGET: X=-228 mm, Y=474 mm, Distance=525 mm
+  Servo angle: -23.5°
+→ TARGET: X=-220 mm, Y=473 mm, Distance=521 mm
+  Servo angle: -22.8°
+→ TARGET: X=-222 mm, Y=468 mm, Distance=517 mm
+  Servo angle: -23.2°
+→ TARGET: X=-231 mm, Y=462 mm, Distance=516 mm
+  Servo angle: -24.3°
+→ TARGET: X=-231 mm, Y=461 mm, Distance=515 mm
+  Servo angle: -24.3°
+→ TARGET: X=-226 mm, Y=460 mm, Distance=512 mm
+  Servo angle: -23.9°
+→ TARGET: X=-222 mm, Y=458 mm, Distance=508 mm
+  Servo angle: -23.6°
+→ TARGET: X=-222 mm, Y=452 mm, Distance=503 mm
+  Servo angle: -23.9°
+→ TARGET: X=-229 mm, Y=445 mm, Distance=500 mm
+  Servo angle: -24.8°
+→ TARGET: X=-234 mm, Y=439 mm, Distance=497 mm
+  Servo angle: -25.6°
+→ TARGET: X=-241 mm, Y=430 mm, Distance=492 mm
+  Servo angle: -26.7°
+→ TARGET: X=-241 mm, Y=426 mm, Distance=489 mm
+  Servo angle: -26.9°
+→ TARGET: X=-235 mm, Y=425 mm, Distance=485 mm
+  Servo angle: -26.3°
+→ TARGET: X=-227 mm, Y=423 mm, Distance=480 mm
+  Servo angle: -25.6°
+→ TARGET: X=-216 mm, Y=415 mm, Distance=467 mm
+  Servo angle: -24.9°
+→ TARGET: X=-213 mm, Y=407 mm, Distance=459 mm
+  Servo angle: -25.0°
+→ TARGET: X=-210 mm, Y=406 mm, Distance=457 mm
+  Servo angle: -24.7°
+→ TARGET: X=-205 mm, Y=407 mm, Distance=455 mm
+  Servo angle: -24.2°
+→ TARGET: X=-199 mm, Y=410 mm, Distance=455 mm
+  Servo angle: -23.4°
+→ TARGET: X=-188 mm, Y=414 mm, Distance=454 mm
+  Servo angle: -22.1°
+→ TARGET: X=-100 mm, Y=424 mm, Distance=435 mm
+  Servo angle: -11.9°
+→ TARGET: X=248 mm, Y=572 mm, Distance=623 mm
+  Servo angle: 21.7°
+→ TARGET: X=252 mm, Y=572 mm, Distance=625 mm
+  Servo angle: 22.1°
+→ TARGET: X=278 mm, Y=825 mm, Distance=870 mm
+  Servo angle: 17.6°
+→ TARGET: X=299 mm, Y=813 mm, Distance=866 mm
+  Servo angle: 19.1°
+→ TARGET: X=556 mm, Y=617 mm, Distance=830 mm
+  Servo angle: 39.8°
+→ TARGET: X=557 mm, Y=618 mm, Distance=831 mm
+  Servo angle: 39.8°
+→ TARGET: X=407 mm, Y=588 mm, Distance=715 mm
+  Servo angle: 32.5°
+→ TARGET: X=410 mm, Y=586 mm, Distance=715 mm
+  Servo angle: 32.8°
+→ TARGET: X=506 mm, Y=435 mm, Distance=667 mm
+  Servo angle: 46.2°
+→ TARGET: X=505 mm, Y=435 mm, Distance=666 mm
+  Servo angle: 46.2°
+→ TARGET: X=398 mm, Y=475 mm, Distance=619 mm
+  Servo angle: 37.2°
+→ TARGET: X=397 mm, Y=475 mm, Distance=619 mm
+  Servo angle: 37.1°
+→ TARGET: X=343 mm, Y=366 mm, Distance=501 mm
+  Servo angle: 39.5°
+→ TARGET: X=457 mm, Y=275 mm, Distance=533 mm
+  Servo angle: 54.6°
+→ TARGET: X=456 mm, Y=277 mm, Distance=533 mm
+  Servo angle: 54.4°
+→ TARGET: X=473 mm, Y=393 mm, Distance=614 mm
+  Servo angle: 46.9°
+→ TARGET: X=436 mm, Y=375 mm, Distance=575 mm
+  Servo angle: 45.7°
+→ TARGET: X=401 mm, Y=276 mm, Distance=486 mm
+  Servo angle: 50.9°
+→ TARGET: X=397 mm, Y=275 mm, Distance=482 mm
+  Servo angle: 50.7°
+→ TARGET: X=423 mm, Y=315 mm, Distance=527 mm
+  Servo angle: 49.2°
+→ TARGET: X=425 mm, Y=316 mm, Distance=529 mm
+  Servo angle: 49.3°
+→ TARGET: X=427 mm, Y=319 mm, Distance=533 mm
+  Servo angle: 49.2°
+→ TARGET: X=432 mm, Y=321 mm, Distance=538 mm
+  Servo angle: 49.3°
+→ TARGET: X=433 mm, Y=324 mm, Distance=540 mm
+  Servo angle: 49.2°
+→ TARGET: X=434 mm, Y=327 mm, Distance=543 mm
+  Servo angle: 49.0°
+→ TARGET: X=434 mm, Y=329 mm, Distance=544 mm
+  Servo angle: 48.9°
+→ TARGET: X=435 mm, Y=330 mm, Distance=546 mm
+  Servo angle: 48.9°
+→ TARGET: X=435 mm, Y=332 mm, Distance=547 mm
+  Servo angle: 48.7°
+→ TARGET: X=436 mm, Y=336 mm, Distance=550 mm
+  Servo angle: 48.5°
+→ TARGET: X=436 mm, Y=335 mm, Distance=549 mm
+  Servo angle: 48.6°
+→ TARGET: X=436 mm, Y=334 mm, Distance=549 mm
+  Servo angle: 48.6°
+→ TARGET: X=436 mm, Y=334 mm, Distance=549 mm
+  Servo angle: 48.6°
+→ TARGET: X=435 mm, Y=335 mm, Distance=549 mm
+  Servo angle: 48.5°
+→ TARGET: X=433 mm, Y=335 mm, Distance=547 mm
+  Servo angle: 48.4°
+→ TARGET: X=429 mm, Y=333 mm, Distance=543 mm
+  Servo angle: 48.2°
+→ TARGET: X=428 mm, Y=335 mm, Distance=543 mm
+  Servo angle: 48.0°
+→ TARGET: X=425 mm, Y=341 mm, Distance=544 mm
+  Servo angle: 47.4°
+→ TARGET: X=420 mm, Y=348 mm, Distance=545 mm
+  Servo angle: 46.5°
+→ TARGET: X=414 mm, Y=353 mm, Distance=544 mm
+  Servo angle: 45.8°
+→ TARGET: X=411 mm, Y=357 mm, Distance=544 mm
+  Servo angle: 45.3°
+→ TARGET: X=412 mm, Y=362 mm, Distance=548 mm
+  Servo angle: 45.0°
+→ TARGET: X=417 mm, Y=363 mm, Distance=552 mm
+  Servo angle: 45.3°
+→ TARGET: X=419 mm, Y=365 mm, Distance=555 mm
+  Servo angle: 45.3°
+→ TARGET: X=414 mm, Y=365 mm, Distance=551 mm
+  Servo angle: 44.9°
+→ TARGET: X=410 mm, Y=364 mm, Distance=548 mm
+  Servo angle: 44.7°
+→ TARGET: X=406 mm, Y=362 mm, Distance=543 mm
+  Servo angle: 44.6°
+→ TARGET: X=402 mm, Y=363 mm, Distance=541 mm
+  Servo angle: 44.2°
+→ TARGET: X=400 mm, Y=364 mm, Distance=540 mm
+  Servo angle: 44.0°
+→ TARGET: X=398 mm, Y=363 mm, Distance=538 mm
+  Servo angle: 43.9°
+→ TARGET: X=397 mm, Y=363 mm, Distance=537 mm
+  Servo angle: 43.9°
+→ TARGET: X=398 mm, Y=364 mm, Distance=539 mm
+  Servo angle: 43.9°
+→ TARGET: X=400 mm, Y=367 mm, Distance=542 mm
+  Servo angle: 43.8°
+→ TARGET: X=402 mm, Y=369 mm, Distance=545 mm
+  Servo angle: 43.8°
+→ TARGET: X=403 mm, Y=370 mm, Distance=547 mm
+  Servo angle: 43.8°
+→ TARGET: X=403 mm, Y=367 mm, Distance=545 mm
+  Servo angle: 44.0°
+→ TARGET: X=402 mm, Y=362 mm, Distance=540 mm
+  Servo angle: 44.3°
+→ TARGET: X=401 mm, Y=358 mm, Distance=537 mm
+  Servo angle: 44.5°
+→ TARGET: X=402 mm, Y=355 mm, Distance=536 mm
+  Servo angle: 44.8°
+→ TARGET: X=409 mm, Y=353 mm, Distance=540 mm
+  Servo angle: 45.4°
+→ TARGET: X=414 mm, Y=353 mm, Distance=544 mm
+  Servo angle: 45.8°
+→ TARGET: X=416 mm, Y=349 mm, Distance=543 mm
+  Servo angle: 46.2°
+→ TARGET: X=417 mm, Y=348 mm, Distance=543 mm
+  Servo angle: 46.3°
+→ TARGET: X=417 mm, Y=349 mm, Distance=543 mm
+  Servo angle: 46.3°
+→ TARGET: X=418 mm, Y=351 mm, Distance=545 mm
+  Servo angle: 46.2°
+→ TARGET: X=421 mm, Y=361 mm, Distance=554 mm
+  Servo angle: 45.7°
+→ TARGET: X=425 mm, Y=370 mm, Distance=563 mm
+  Servo angle: 45.3°
+→ TARGET: X=430 mm, Y=379 mm, Distance=573 mm
+  Servo angle: 45.1°
+→ TARGET: X=437 mm, Y=381 mm, Distance=579 mm
+  Servo angle: 45.4°
+→ TARGET: X=446 mm, Y=381 mm, Distance=586 mm
+  Servo angle: 46.0°
+→ TARGET: X=450 mm, Y=376 mm, Distance=586 mm
+  Servo angle: 46.6°
+→ TARGET: X=452 mm, Y=377 mm, Distance=588 mm
+  Servo angle: 46.6°
+→ TARGET: X=449 mm, Y=373 mm, Distance=583 mm
+  Servo angle: 46.7°
+→ TARGET: X=445 mm, Y=369 mm, Distance=578 mm
+  Servo angle: 46.7°
+→ TARGET: X=442 mm, Y=366 mm, Distance=573 mm
+  Servo angle: 46.7°
+→ TARGET: X=437 mm, Y=362 mm, Distance=567 mm
+  Servo angle: 46.7°
+→ TARGET: X=432 mm, Y=358 mm, Distance=561 mm
+  Servo angle: 46.6°
+→ TARGET: X=420 mm, Y=358 mm, Distance=551 mm
+  Servo angle: 45.8°
+→ TARGET: X=415 mm, Y=362 mm, Distance=550 mm
+  Servo angle: 45.2°
+→ TARGET: X=408 mm, Y=363 mm, Distance=546 mm
+  Servo angle: 44.7°
