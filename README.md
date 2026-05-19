@@ -63,7 +63,3 @@ All configuration is done via `platformio.ini` build_flags. See [docs/architectu
 - [docs/architecture.md](docs/architecture.md) - System architecture and geometry
 - [docs/implementation.md](docs/implementation.md) - Implementation plan
 
-## References
-
-- HLK-LD2450 Python implementation: `../HLK-LD2450/`
-- Servo validation project: `../ConversingHeads/test/servo_validation/`
